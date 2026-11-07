@@ -1,0 +1,65 @@
+﻿produto_id;sku;nome_produto;categoria_id;marca;preco_tabela;custo_unitario;data_lancamento;ativo
+1;ORB-0001;Teclado mecânico 60%;1;Voltix;269.0;149.07;2023-01-14;Sim
+2;ORB-0002;Teclado mecânico TKL;1;PulseLab;329.0;203.75;2023-07-19;Sim
+3;ORB-0003;Teclado slim sem fio;1;Aster;179.0;93.0;2023-08-15;Sim
+4;ORB-0004;Teclado ergonômico;1;Aster;289.0;125.22;2023-08-29;Sim
+5;ORB-0005;Mouse sem fio;1;Zenith;109.0;60.29;2023-06-13;Sim
+6;ORB-0006;Mouse gamer 12.000 DPI;1;Nexa;189.0;105.31;2023-08-07;Sim
+7;ORB-0007;Mouse vertical;1;Zenith;159.0;70.06;2023-10-11;Sim
+8;ORB-0008;Kit teclado e mouse;1;Orion;229.0;112.81;2023-03-02;Sim
+9;ORB-0009;Monitor IPS 24 polegadas;2;Voltix;799.0;413.96;2023-12-06;Sim
+10;ORB-0010;Monitor IPS 27 polegadas;2;Voltix;1199.0;789.46;2023-08-07;Sim
+11;ORB-0011;Monitor ultrawide 29 polegadas;2;Zenith;1609.0;1169.42;2023-10-14;Sim
+12;ORB-0012;Monitor gamer 165 Hz;2;Orion;1419.0;885.21;2023-09-12;Sim
+13;ORB-0013;Monitor portátil USB-C;2;Zenith;1099.0;550.57;2023-02-14;Sim
+14;ORB-0014;Suporte monitor duplo;2;PulseLab;259.0;171.64;2023-12-12;Sim
+15;ORB-0015;Monitor QHD 27 polegadas;2;Orion;1799.0;1089.58;2023-01-03;Sim
+16;ORB-0016;Cabo DisplayPort premium;2;Orion;79.0;39.92;2023-04-26;Sim
+17;ORB-0017;Headset USB com microfone;3;PulseLab;229.0;139.56;2023-09-10;Sim
+18;ORB-0018;Headset gamer 7.1;3;Aster;349.0;176.28;2023-10-13;Sim
+19;ORB-0019;Fone Bluetooth TWS;3;Zenith;199.0;122.06;2023-01-10;Não
+20;ORB-0020;Caixa de som portátil;3;Zenith;299.0;146.87;2023-05-15;Sim
+21;ORB-0021;Microfone condensador USB;3;Voltix;419.0;280.62;2023-02-27;Sim
+22;ORB-0022;Soundbar compacta;3;Voltix;449.0;313.59;2023-11-13;Sim
+23;ORB-0023;Fone com cancelamento de ruído;3;Orion;599.0;272.0;2023-08-07;Sim
+24;ORB-0024;Adaptador áudio USB;3;Voltix;49.0;25.51;2023-01-26;Sim
+25;ORB-0025;SSD NVMe 500 GB;4;Zenith;279.0;130.69;2023-06-30;Sim
+26;ORB-0026;SSD NVMe 1 TB;4;Orion;459.0;219.21;2023-11-04;Sim
+27;ORB-0027;SSD SATA 1 TB;4;Orion;379.0;171.9;2023-05-10;Sim
+28;ORB-0028;HD externo 2 TB;4;Zenith;499.0;280.26;2023-02-14;Sim
+29;ORB-0029;Pen drive 128 GB;4;Voltix;79.0;47.4;2023-08-17;Sim
+30;ORB-0030;Cartão microSD 256 GB;4;Orion;139.0;100.71;2023-01-09;Sim
+31;ORB-0031;Case para SSD M.2;4;Orion;89.0;50.96;2023-01-07;Sim
+32;ORB-0032;Hub SSD externo USB-C;4;Aster;169.0;111.99;2023-05-08;Sim
+33;ORB-0033;Roteador Wi-Fi 6;5;Voltix;449.0;219.15;2023-08-11;Sim
+34;ORB-0034;Kit mesh Wi-Fi;5;Nexa;899.0;438.68;2023-07-11;Sim
+35;ORB-0035;Adaptador Wi-Fi USB;5;Orion;99.0;43.73;2023-01-03;Sim
+36;ORB-0036;Switch gigabit 8 portas;5;Aster;279.0;132.05;2023-02-17;Sim
+37;ORB-0037;Cabo de rede 10 m;5;Voltix;79.0;39.74;2023-09-30;Sim
+38;ORB-0038;Adaptador USB-C Ethernet;5;Nexa;139.0;71.26;2023-05-23;Não
+39;ORB-0039;Repetidor Wi-Fi;5;PulseLab;189.0;121.02;2023-05-08;Sim
+40;ORB-0040;Docking station 10 em 1;5;Orion;379.0;192.52;2023-08-06;Sim
+41;ORB-0041;Suporte notebook alumínio;6;PulseLab;159.0;77.27;2023-11-03;Sim
+42;ORB-0042;Cadeira escritório ergonômica;6;PulseLab;1199.0;768.08;2023-07-27;Sim
+43;ORB-0043;Luminária de mesa LED;6;Zenith;169.0;76.54;2023-09-11;Sim
+44;ORB-0044;Apoio para os pés;6;Zenith;139.0;98.15;2023-09-19;Sim
+45;ORB-0045;Suporte articulado monitor;6;Nexa;289.0;150.44;2023-12-25;Sim
+46;ORB-0046;Mesa digitalizadora;6;PulseLab;459.0;294.69;2023-12-12;Sim
+47;ORB-0047;Organizador de cabos;6;PulseLab;69.0;30.0;2023-08-11;Sim
+48;ORB-0048;Desk mat premium;6;Orion;99.0;56.66;2023-02-16;Sim
+49;ORB-0049;Controle gamer Bluetooth;7;Nexa;329.0;171.47;2023-07-01;Sim
+50;ORB-0050;Mousepad XXL RGB;7;Aster;189.0;116.36;2023-09-03;Sim
+51;ORB-0051;Base de headset RGB;7;Zenith;129.0;82.57;2023-04-08;Sim
+52;ORB-0052;Carregador duplo controles;7;PulseLab;179.0;82.73;2023-01-28;Sim
+53;ORB-0053;Kit streaming iniciante;7;Voltix;699.0;378.46;2023-03-11;Sim
+54;ORB-0054;Ventoinha RGB kit 3;7;Aster;229.0;156.07;2023-02-05;Sim
+55;ORB-0055;Controle arcade USB;7;Orion;419.0;208.49;2023-08-08;Sim
+56;ORB-0056;Braço articulado microfone;7;Voltix;239.0;159.93;2023-01-01;Sim
+57;ORB-0057;Webcam Full HD;8;Zenith;259.0;119.88;2023-06-05;Não
+58;ORB-0058;Webcam 4K;8;PulseLab;719.0;369.5;2023-10-05;Sim
+59;ORB-0059;Ring light 12 polegadas;8;Aster;199.0;113.51;2023-05-09;Sim
+60;ORB-0060;Painel LED para vídeo;8;Aster;349.0;203.52;2023-02-26;Sim
+61;ORB-0061;Tripé de mesa;8;Aster;99.0;62.42;2023-05-26;Sim
+62;ORB-0062;Capturadora HDMI USB;8;Voltix;329.0;196.8;2023-08-01;Sim
+63;ORB-0063;Filtro pop para microfone;8;PulseLab;59.0;36.25;2023-02-10;Sim
+64;ORB-0064;Webcam com tampa privacidade;8;Orion;309.0;214.3;2023-12-03;Sim

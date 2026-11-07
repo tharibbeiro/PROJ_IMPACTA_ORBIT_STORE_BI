@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Orbit Store BI — painel comercial offline com dados fictícios de e-commerce.">
+<title>Orbit Store BI | Painel Comercial</title>
+<style>
+:root{--bg:#08121f;--panel:#112237;--panel2:#162a42;--line:#294057;--fg:#f3f8fe;--muted:#9fb3ca;--accent:#66d8e8;--blue:#80a5ff;--green:#90e6bd;--amber:#ffc77b;--pink:#ef9bcc;--radius:17px}*{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at 15% 0%,#16365b 0,transparent 35%),var(--bg);color:var(--fg);font-family:Segoe UI,Arial,sans-serif;font-size:14px}button,select{font:inherit}button{cursor:pointer}header{padding:30px max(26px,calc((100vw - 1500px)/2));border-bottom:1px solid #20374e;background:#091523aa}header .intro{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}.brand{display:flex;align-items:center;gap:15px}.logo{display:grid;place-items:center;width:49px;height:49px;border-radius:14px;background:linear-gradient(145deg,#226ba3,#46cbbf);font-size:27px;box-shadow:0 8px 22px #0003}.eyebrow{color:var(--accent);text-transform:uppercase;letter-spacing:.18em;font-size:11px;font-weight:800}.brand h1{font-size:26px;letter-spacing:.02em;margin:3px 0}.subtitle{color:var(--muted);margin:8px 0 0;line-height:1.6}.topright{display:flex;align-items:center;gap:10px}.pill{background:#16354b;border:1px solid #357184;border-radius:99px;padding:8px 12px;color:#a9e7ed;font-size:12px;white-space:nowrap}.btn{background:var(--panel2);border:1px solid #3c5a76;color:var(--fg);border-radius:10px;padding:10px 13px;font-weight:600}.btn:hover,.btn:focus-visible{border-color:var(--accent);background:#21425c;outline:none}.container{max-width:1510px;margin:auto;padding:22px 26px 40px}.toolbar{display:flex;align-items:end;flex-wrap:wrap;gap:12px;background:#12243b;border:1px solid var(--line);padding:16px 18px;border-radius:var(--radius);margin-bottom:18px}.toolbar .filter{min-width:130px;flex:1;max-width:240px}.filter label{display:block;color:var(--muted);font-size:12px;margin:0 0 7px;font-weight:700}.filter select{width:100%;background:#0a1a2e;border:1px solid #35516b;color:var(--fg);border-radius:10px;padding:10px 11px;outline:none}.filter select:focus{border-color:var(--accent)}.toolbar .spacer{flex:2}.range{font-size:12px;color:var(--muted);padding-bottom:5px}.kpis{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:12px;margin-bottom:16px}.kpi{background:linear-gradient(140deg,#152b43,#102134);border:1px solid var(--line);border-radius:var(--radius);padding:17px 16px;min-height:112px;overflow:hidden;position:relative}.kpi:before{content:"";height:3px;position:absolute;top:0;left:0;right:0;background:var(--a,#5f9cd6)}.kpi .name{font-size:11px;text-transform:uppercase;letter-spacing:.055em;font-weight:750;color:#b2c7db}.kpi .value{font-size:clamp(19px,1.6vw,29px);font-weight:800;margin:17px 0 5px;white-space:nowrap;letter-spacing:-.04em}.kpi small{color:var(--muted);font-size:11px}.grid-main{display:grid;grid-template-columns:1.55fr 1fr;gap:16px}.panel{background:linear-gradient(145deg,#12253c,#0e2035);border:1px solid var(--line);border-radius:var(--radius);padding:20px;min-width:0;box-shadow:0 4px 20px #0001}.panel h2{margin:0;font-size:16px;letter-spacing:.015em}.panel .sub{color:var(--muted);font-size:12px;margin:7px 0 15px;line-height:1.45}.panel .corner{display:flex;align-items:center;justify-content:space-between;gap:12px}.panel .legend{color:var(--accent);font-size:12px;font-weight:700}.charts-secondary{display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px;margin-top:16px}.plot{width:100%;height:260px;display:block}.chart-bars{display:flex;flex-direction:column;gap:11px}.bar-item{display:grid;grid-template-columns:minmax(95px,1.1fr) minmax(110px,1.8fr) auto;align-items:center;gap:12px;min-width:0}.bar-label{font-size:12px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#d2e4f4}.bar-track{background:#253d58;border-radius:20px;height:11px;overflow:hidden}.bar-fill{height:100%;border-radius:20px;background:linear-gradient(90deg,#4c84ec,#64d6e1)}.bar-num{color:#d5e8f6;font-size:12px;font-weight:750;text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}.bar-item:hover .bar-fill{filter:brightness(1.25)}.donutwrap{display:flex;justify-content:center;align-items:center;gap:21px;margin-top:12px;min-height:196px}.donut{width:168px;height:168px;border-radius:100%;flex-shrink:0;position:relative;background:conic-gradient(#5d8df4 0 100%);box-shadow:0 0 0 1px #ffffff18}.donutcenter{position:absolute;inset:29px;background:#10243a;border-radius:50%;display:flex;align-items:center;justify-content:center;flex-direction:column;line-height:1.4;text-align:center}.donutcenter strong{font-size:23px}.donutcenter small{font-size:10px;color:var(--muted);text-transform:uppercase}.statuslist{display:flex;flex-direction:column;gap:12px;min-width:130px}.statusrow{display:flex;align-items:center;gap:9px;font-size:12px}.statusdot{width:9px;height:9px;border-radius:50%;flex-shrink:0}.statusname{color:var(--muted);flex:1}.statuspct{font-weight:800}.customer-table{width:100%;border-collapse:collapse;font-size:12px}.customer-table th{color:#92bed1;text-align:left;font-size:11px;font-weight:800;padding:10px 6px;border-bottom:1px solid #2a435a}.customer-table td{padding:11px 6px;border-bottom:1px solid #233a51}.customer-table td:last-child,.customer-table th:last-child{text-align:right}.customer-table td:nth-child(2){text-align:center}.customer-table tr:hover td{background:#19344b}.note{color:var(--muted);font-size:11px;line-height:1.65;margin-top:15px}.foot{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px;border-top:1px solid #20384e;margin-top:25px;padding:19px 1px;color:#91a9c2;font-size:11px}svg .axis{fill:#a2b7c9;font-size:10px}svg .gridline{stroke:#34516a;stroke-width:1;stroke-dasharray:3 5}svg .line{stroke:#6bdbef;stroke-width:3;fill:none;stroke-linecap:round;stroke-linejoin:round}svg .area{fill:url(#areaFade)}svg .dot{fill:#a7eff7;stroke:#0e2035;stroke-width:2}.empty{text-align:center;color:var(--muted);padding:28px 8px}.insight{display:flex;align-items:center;gap:10px;padding:12px 16px;border:1px solid #315a69;background:#122d3d;border-radius:12px;color:#c6e6ee;margin-top:16px;line-height:1.5}.insight b{color:#8ee9ec}body.no-results .kpis{opacity:.5}@media(max-width:1200px){.kpis{grid-template-columns:repeat(3,1fr)}.grid-main{grid-template-columns:1fr}.charts-secondary{grid-template-columns:1fr 1fr}.charts-secondary>.panel:last-child{grid-column:1/-1}}@media(max-width:730px){header{padding:22px 15px}.container{padding:17px 12px}.kpis{grid-template-columns:repeat(2,minmax(0,1fr))}.charts-secondary{grid-template-columns:1fr}.charts-secondary>.panel:last-child{grid-column:auto}.bar-item{grid-template-columns:100px 1fr auto;gap:8px}.donutwrap{flex-wrap:wrap}.topright{width:100%}.kpi .value{font-size:22px}.panel{padding:15px}}
+@media print{body{background:white;color:#16283c}header,.toolbar{display:none}.container{max-width:none}.kpi,.panel{box-shadow:none;border:1px solid #ccd6e0;background:white;color:#16283c;break-inside:avoid}.kpi .name,.kpi small,.panel .sub,.note,.foot{color:#536579}.kpi .value,.panel h2{color:#16283c}.bar-label,.bar-num,.customer-table td{color:#16283c}.donutcenter{background:white}.donutcenter strong{color:#16283c}.insight{background:white;color:#26384c}}
+</style>
+</head>
+<body>
+<header><div class="intro"><div class="brand"><div class="logo">◈</div><div><div class="eyebrow">Business Intelligence · E-commerce</div><h1>ORBIT STORE <span style="color:#70d8e4">BI</span></h1><p class="subtitle">Painel executivo • tecnologia, eletrônicos e acessórios • base acadêmica simulada</p></div></div><div class="topright"><span class="pill">● 100% offline</span><button class="btn" onclick="exportData()">↓ Exportar resumo CSV</button><button class="btn" onclick="window.print()">⎙ Imprimir / PDF</button></div></div></header>
+<main class="container">
+<section class="toolbar" aria-label="Filtros do dashboard">
+  <div class="filter"><label for="year">Ano da compra</label><select id="year"><option value="all">Todos os anos</option></select></div>
+  <div class="filter"><label for="month">Mês</label><select id="month"><option value="all">Todos os meses</option></select></div>
+  <div class="filter"><label for="uf">Estado (UF)</label><select id="uf"><option value="all">Todo o Brasil</option></select></div>
+  <div class="filter"><label for="channel">Canal de venda</label><select id="channel"><option value="all">Todos os canais</option></select></div>
+  <button class="btn" id="reset">Limpar filtros</button><span class="spacer"></span><span class="range" id="range">Base de dados: janeiro/2024 a outubro/2026</span>
+</section>
+<section class="kpis">
+  <div class="kpi" style="--a:#67dce8"><div class="name">Receita líquida</div><div class="value" id="k-revenue">—</div><small>Pedidos elegíveis, com frete</small></div>
+  <div class="kpi" style="--a:#86a6ff"><div class="name">Pedidos válidos</div><div class="value" id="k-valid">—</div><small>Volume comercial elegível</small></div>
+  <div class="kpi" style="--a:#ad9eff"><div class="name">Ticket médio</div><div class="value" id="k-ticket">—</div><small>Receita / pedidos válidos</small></div>
+  <div class="kpi" style="--a:#89e4b5"><div class="name">Margem de contribuição</div><div class="value" id="k-margin">—</div><small>Após CMV e frete logístico</small></div>
+  <div class="kpi" style="--a:#ffc57a"><div class="name">Margem (%)</div><div class="value" id="k-rate">—</div><small>Margem / receita líquida</small></div>
+  <div class="kpi" style="--a:#f0a1d3"><div class="name">Clientes recorrentes</div><div class="value" id="k-recurrent">—</div><small>2+ pedidos válidos com produtos</small></div>
+</section>
+<section class="grid-main">
+  <article class="panel"><div class="corner"><h2>01 · Evolução mensal de receita</h2><span class="legend">● Receita líquida</span></div><p class="sub">Tendência do faturamento, respeitando os filtros selecionados.</p><svg id="monthly-chart" class="plot" viewBox="0 0 760 260" preserveAspectRatio="none" role="img" aria-label="Gráfico de evolução mensal"></svg></article>
+  <article class="panel"><div class="corner"><h2>02 · Faturamento por categoria</h2><span class="legend">Produtos</span></div><p class="sub">Ranking da receita de mercadorias, sem frete, por categoria.</p><div id="category-chart" class="chart-bars"></div></article>
+</section>
+<section class="charts-secondary">
+  <article class="panel"><div class="corner"><h2>03 · Top 8 produtos</h2><span class="legend">Receita</span></div><p class="sub">Itens com maior receita líquida no período.</p><div id="product-chart" class="chart-bars"></div></article>
+  <article class="panel"><div class="corner"><h2>04 · Situação dos pedidos</h2><span class="legend" id="total-orders-label">0 pedidos</span></div><p class="sub">Todos os pedidos, independentemente da elegibilidade financeira.</p><div class="donutwrap"><div class="donut" id="status-donut"><div class="donutcenter"><strong id="donut-number">0</strong><small>pedidos</small></div></div><div id="status-list" class="statuslist"></div></div></article>
+  <article class="panel"><div class="corner"><h2>05 · Clientes recorrentes</h2><span class="legend">Top 8</span></div><p class="sub">Clientes com duas ou mais compras elegíveis.</p><table class="customer-table"><thead><tr><th>Cliente</th><th>Pedidos</th><th>Receita</th></tr></thead><tbody id="customer-body"></tbody></table></article>
+</section>
+<section class="insight">✦ <span id="insight">Calculando resultados...</span></section>
+<footer class="foot"><span>ORBIT STORE BI · Projeto acadêmico | SQLite + Python + HTML/CSS/JS</span><span>Dados 100% fictícios. Modelo de margem gerencial estimada; não representa lucro contábil.</span></footer>
+</main>
+<script>
+/* Dados gerados automaticamente pelo Python a partir do banco SQLite.
+   Estrutura compacta:
+   o = [pedido_id,cliente_id,ano_mes,status,canal,elegivel,receita_centavos,margem_centavos,receita_produtos_centavos]
+   i = [pedido_id,produto_id,receita_produtos_centavos,unidades_elegiveis]
+   p = {produto_id: [nome,categoria]}; c = {cliente_id: [nome,uf]}
+*/
+const DATA = __DATA_JSON__;
+const YEARS=[...new Set(DATA.o.map(r=>r[2].substring(0,4)))].sort();
+const MONTHS=['Janeiro','Fevereiro','Março','Abril','Maio','Junho','Julho','Agosto','Setembro','Outubro','Novembro','Dezembro'];
+const STATUS_COLORS={'Entregue':'#5e91ef','Enviado':'#7ddfd2','Em separação':'#f5c678','Cancelado':'#f28c9b','Devolvido':'#b0a0ef'};
+const brInt=new Intl.NumberFormat('pt-BR',{maximumFractionDigits:0});
+const brMoney=new Intl.NumberFormat('pt-BR',{style:'currency',currency:'BRL',minimumFractionDigits:2});
+const fmtMoney=c=>brMoney.format(c/100),fmtCompact=c=>{let n=c/100;return n>=1000000?'R$ '+(n/1000000).toLocaleString('pt-BR',{maximumFractionDigits:2})+' mi':n>=1000?'R$ '+(n/1000).toLocaleString('pt-BR',{maximumFractionDigits:1})+' mil':fmtMoney(c)};
+const fmtPct=x=>x.toLocaleString('pt-BR',{minimumFractionDigits:2,maximumFractionDigits:2})+'%';
+const esc=s=>String(s).replace(/[&<>"']/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
+function opt(select,val,txt){let e=document.createElement('option');e.value=val;e.textContent=txt;select.appendChild(e)}
+YEARS.forEach(y=>opt(document.getElementById('year'),y,y));
+MONTHS.forEach((m,i)=>opt(document.getElementById('month'),String(i+1).padStart(2,'0'),m));
+[...new Set(Object.values(DATA.c).map(x=>x[1]))].sort().forEach(u=>opt(document.getElementById('uf'),u,u));
+[...new Set(DATA.o.map(r=>r[4]))].sort().forEach(ch=>opt(document.getElementById('channel'),ch,ch));
+for(let id of ['year','month','uf','channel'])document.getElementById(id).addEventListener('change',render);
+document.getElementById('reset').addEventListener('click',()=>{for(let id of ['year','month','uf','channel'])document.getElementById(id).value='all';render()});
+let lastOrders=[],lastItems=[];
+function collect(){
+ const y=document.getElementById('year').value,m=document.getElementById('month').value,u=document.getElementById('uf').value,ch=document.getElementById('channel').value;
+ const ord=DATA.o.filter(r=>(y==='all'||r[2].slice(0,4)===y)&&(m==='all'||r[2].slice(5,7)===m)&&(u==='all'||DATA.c[r[1]][1]===u)&&(ch==='all'||r[4]===ch));
+ const allowed=new Set(ord.map(r=>r[0])); const items=DATA.i.filter(r=>allowed.has(r[0]));
+ return {ord,items};
+}
+function toBars(id,arr,formatter,maxRows=8){
+ let el=document.getElementById(id);el.innerHTML='';let top=arr.slice(0,maxRows);if(!top.length){el.innerHTML='<div class="empty">Nenhum dado no período</div>';return}
+ let max=Math.max(...top.map(x=>x[1]),1);
+ top.forEach(([name,val])=>{let row=document.createElement('div');row.className='bar-item';row.title=`${name}: ${formatter(val)}`;row.innerHTML=`<span class="bar-label" title="${esc(name)}">${esc(name)}</span><div class="bar-track"><div class="bar-fill" style="width:${Math.max(.3,val/max*100)}%"></div></div><span class="bar-num">${formatter(val)}</span>`;el.appendChild(row)});
+}
+function drawLine(series){
+ const el=document.getElementById('monthly-chart');if(!series.length){el.innerHTML='<text x="300" y="120" class="axis">Nenhum dado para os filtros</text>';return}
+ const w=760,h=260,l=66,r=15,t=18,b=40,pW=w-l-r,pH=h-t-b;
+ const max=Math.max(...series.map(r=>r[1]),100);let ceiling=Math.ceil(max/5000000)*5000000; // arredonda escala ao múltiplo de R$ 50 mil
+ const pX=i=>l+(series.length===1?pW/2:i*pW/(series.length-1));const pY=v=>t+pH-v/ceiling*pH;
+ let out='<defs><linearGradient id="areaFade" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#66d8e8" stop-opacity=".35"/><stop offset="100%" stop-color="#66d8e8" stop-opacity="0"/></linearGradient></defs>';
+ for(let j=0;j<=4;j++){let v=ceiling*j/4,y=pY(v);out+=`<line class="gridline" x1="${l}" y1="${y}" x2="${w-r}" y2="${y}"/><text class="axis" text-anchor="end" x="${l-9}" y="${y+4}">${esc(fmtCompact(v))}</text>`}
+ let points=series.map(([m,v],i)=>`${pX(i)},${pY(v)}`).join(' ');
+ out+=`<polygon class="area" points="${pX(0)},${pY(0)} ${points} ${pX(series.length-1)},${pY(0)}"/><polyline class="line" points="${points}"/>`;
+ let step=series.length>14?Math.ceil(series.length/7):1;
+ series.forEach(([month,val],i)=>{let x=pX(i),y=pY(val);if(i%step===0||i===series.length-1)out+=`<text class="axis" text-anchor="middle" x="${x}" y="${h-15}">${esc(month.slice(2))}</text>`;out+=`<circle class="dot" cx="${x}" cy="${y}" r="3.6"><title>${esc(month)}: ${esc(fmtMoney(val))}</title></circle>`});
+ el.innerHTML=out;
+}
+function render(){
+ let {ord,items}=collect();lastOrders=ord;lastItems=items;
+ let revenue=0,margin=0,valid=0;
+ const monthly=new Map(),freq=new Map(),status=new Map(),who=new Map();
+ for(let x of ord){let [id,cli,ano_mes,st,chn,ok,rec,mar,prodRec]=x;revenue+=rec;margin+=mar;valid+=ok;monthly.set(ano_mes,(monthly.get(ano_mes)||0)+rec);status.set(st,(status.get(st)||0)+1);if(ok&&prodRec>0){freq.set(cli,(freq.get(cli)||0)+1);who.set(cli,(who.get(cli)||0)+rec)}}
+ const recurrent=[...freq.values()].filter(n=>n>=2).length;
+ document.getElementById('k-revenue').textContent=fmtCompact(revenue);
+ document.getElementById('k-valid').textContent=brInt.format(valid);
+ document.getElementById('k-ticket').textContent=valid?fmtMoney(Math.round(revenue/valid)):'R$ 0,00';
+ document.getElementById('k-margin').textContent=fmtCompact(margin);
+ document.getElementById('k-rate').textContent=fmtPct(revenue?margin/revenue*100:0);
+ document.getElementById('k-recurrent').textContent=brInt.format(recurrent);
+ for(let id of ['k-revenue','k-margin'])document.getElementById(id).title=id==='k-revenue'?fmtMoney(revenue):fmtMoney(margin);
+ let prod=new Map(),cats=new Map();for(let x of items){let [,p,val]=x;const descr=DATA.p[p];prod.set(p,(prod.get(p)||0)+val);cats.set(descr[1],(cats.get(descr[1])||0)+val)}
+ let months=[...monthly].sort((a,b)=>a[0].localeCompare(b[0]));drawLine(months);
+ let catRanking=[...cats].sort((a,b)=>b[1]-a[1]);toBars('category-chart',catRanking,fmtCompact,8);
+ let prodRanking=[...prod].map(([id,v])=>[DATA.p[id][0],v]).sort((a,b)=>b[1]-a[1]);toBars('product-chart',prodRanking,fmtCompact,8);
+ let total=ord.length;document.getElementById('total-orders-label').textContent=brInt.format(total)+' pedidos';document.getElementById('donut-number').textContent=brInt.format(total);
+ let acc=0,stRows=[...status].sort((a,b)=>b[1]-a[1]);let segments=[];for(let [s,n] of stRows){const pct=n/Math.max(1,total)*100;segments.push(`${STATUS_COLORS[s]||'#9db6c7'} ${acc.toFixed(3)}% ${(acc+pct).toFixed(3)}%`);acc+=pct}
+ document.getElementById('status-donut').style.background=segments.length?'conic-gradient('+segments.join(',')+')':'#2c3d50';
+ document.getElementById('status-list').innerHTML=stRows.map(([s,n])=>`<div class="statusrow"><span class="statusdot" style="background:${STATUS_COLORS[s]||'#9db6c7'}"></span><span class="statusname">${esc(s)}</span><span class="statuspct">${(n/Math.max(total,1)*100).toFixed(1).replace('.',',')}%</span></div>`).join('')||'<div class="empty">Sem pedidos</div>';
+ let customers=[...freq].filter(([,n])=>n>=2).sort((a,b)=>b[1]-a[1]||(who.get(b[0])||0)-(who.get(a[0])||0)).slice(0,8);
+ document.getElementById('customer-body').innerHTML=customers.map(([id,n])=>`<tr><td title="${esc(DATA.c[id][0])}">${esc(DATA.c[id][0])}</td><td>${brInt.format(n)}</td><td>${fmtCompact(who.get(id))}</td></tr>`).join('')||'<tr><td colspan="3" class="empty">Não há recorrentes neste filtro</td></tr>';
+ document.body.classList.toggle('no-results',!total);
+ document.getElementById('range').textContent=total?`Exibindo ${brInt.format(total)} pedidos | ${months.length} meses com movimento`:'Nenhum pedido para os filtros';
+ let topCat=catRanking.length?catRanking[0][0]:'—';document.getElementById('insight').innerHTML=total?`Categoria líder: <b>${esc(topCat)}</b>. Receita no período: <b>${esc(fmtMoney(revenue))}</b>, com <b>${esc(brInt.format(recurrent))}</b> clientes recorrentes. Os gráficos mostram os dados filtrados.`:'Não há registros para a combinação atual de filtros.';
+}
+function exportData(){
+ const rows=[['indicador','valor'],['pedidos_total',lastOrders.length],['pedidos_validos',lastOrders.reduce((s,r)=>s+r[5],0)],['receita_liquida',lastOrders.reduce((s,r)=>s+r[6],0)/100],['margem_contribuicao',lastOrders.reduce((s,r)=>s+r[7],0)/100]];
+ const csv='\ufeff'+rows.map(r=>r.join(';')).join('\r\n');let a=document.createElement('a');a.href=URL.createObjectURL(new Blob([csv],{type:'text/csv;charset=utf-8'}));a.download='Orbit_Store_Resumo_Filtrado.csv';document.body.appendChild(a);a.click();setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove()},500);
+}
+render();
+</script>
+</body>
+</html>

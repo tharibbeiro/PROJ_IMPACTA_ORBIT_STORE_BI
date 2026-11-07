@@ -1,0 +1,65 @@
+﻿produto_id;sku;nome_produto;categoria_id;categoria;departamento;marca;preco_tabela;custo_unitario;ativo
+1;ORB-0001;Teclado mecânico 60%;1;Teclados e Mouses;Periféricos;Voltix;269.0;149.07;1
+2;ORB-0002;Teclado mecânico TKL;1;Teclados e Mouses;Periféricos;PulseLab;329.0;203.75;1
+3;ORB-0003;Teclado slim sem fio;1;Teclados e Mouses;Periféricos;Aster;179.0;93.0;1
+4;ORB-0004;Teclado ergonômico;1;Teclados e Mouses;Periféricos;Aster;289.0;125.22;1
+5;ORB-0005;Mouse sem fio;1;Teclados e Mouses;Periféricos;Zenith;109.0;60.29;1
+6;ORB-0006;Mouse gamer 12.000 DPI;1;Teclados e Mouses;Periféricos;Nexa;189.0;105.31;1
+7;ORB-0007;Mouse vertical;1;Teclados e Mouses;Periféricos;Zenith;159.0;70.06;1
+8;ORB-0008;Kit teclado e mouse;1;Teclados e Mouses;Periféricos;Orion;229.0;112.81;1
+9;ORB-0009;Monitor IPS 24 polegadas;2;Monitores;Vídeo;Voltix;799.0;413.96;1
+10;ORB-0010;Monitor IPS 27 polegadas;2;Monitores;Vídeo;Voltix;1199.0;789.46;1
+11;ORB-0011;Monitor ultrawide 29 polegadas;2;Monitores;Vídeo;Zenith;1609.0;1169.42;1
+12;ORB-0012;Monitor gamer 165 Hz;2;Monitores;Vídeo;Orion;1419.0;885.21;1
+13;ORB-0013;Monitor portátil USB-C;2;Monitores;Vídeo;Zenith;1099.0;550.57;1
+14;ORB-0014;Suporte monitor duplo;2;Monitores;Vídeo;PulseLab;259.0;171.64;1
+15;ORB-0015;Monitor QHD 27 polegadas;2;Monitores;Vídeo;Orion;1799.0;1089.58;1
+16;ORB-0016;Cabo DisplayPort premium;2;Monitores;Vídeo;Orion;79.0;39.92;1
+17;ORB-0017;Headset USB com microfone;3;Áudio;Áudio e Vídeo;PulseLab;229.0;139.56;1
+18;ORB-0018;Headset gamer 7.1;3;Áudio;Áudio e Vídeo;Aster;349.0;176.28;1
+19;ORB-0019;Fone Bluetooth TWS;3;Áudio;Áudio e Vídeo;Zenith;199.0;122.06;0
+20;ORB-0020;Caixa de som portátil;3;Áudio;Áudio e Vídeo;Zenith;299.0;146.87;1
+21;ORB-0021;Microfone condensador USB;3;Áudio;Áudio e Vídeo;Voltix;419.0;280.62;1
+22;ORB-0022;Soundbar compacta;3;Áudio;Áudio e Vídeo;Voltix;449.0;313.59;1
+23;ORB-0023;Fone com cancelamento de ruído;3;Áudio;Áudio e Vídeo;Orion;599.0;272.0;1
+24;ORB-0024;Adaptador áudio USB;3;Áudio;Áudio e Vídeo;Voltix;49.0;25.51;1
+25;ORB-0025;SSD NVMe 500 GB;4;Armazenamento;Componentes;Zenith;279.0;130.69;1
+26;ORB-0026;SSD NVMe 1 TB;4;Armazenamento;Componentes;Orion;459.0;219.21;1
+27;ORB-0027;SSD SATA 1 TB;4;Armazenamento;Componentes;Orion;379.0;171.9;1
+28;ORB-0028;HD externo 2 TB;4;Armazenamento;Componentes;Zenith;499.0;280.26;1
+29;ORB-0029;Pen drive 128 GB;4;Armazenamento;Componentes;Voltix;79.0;47.4;1
+30;ORB-0030;Cartão microSD 256 GB;4;Armazenamento;Componentes;Orion;139.0;100.71;1
+31;ORB-0031;Case para SSD M.2;4;Armazenamento;Componentes;Orion;89.0;50.96;1
+32;ORB-0032;Hub SSD externo USB-C;4;Armazenamento;Componentes;Aster;169.0;111.99;1
+33;ORB-0033;Roteador Wi-Fi 6;5;Redes e Conectividade;Conectividade;Voltix;449.0;219.15;1
+34;ORB-0034;Kit mesh Wi-Fi;5;Redes e Conectividade;Conectividade;Nexa;899.0;438.68;1
+35;ORB-0035;Adaptador Wi-Fi USB;5;Redes e Conectividade;Conectividade;Orion;99.0;43.73;1
+36;ORB-0036;Switch gigabit 8 portas;5;Redes e Conectividade;Conectividade;Aster;279.0;132.05;1
+37;ORB-0037;Cabo de rede 10 m;5;Redes e Conectividade;Conectividade;Voltix;79.0;39.74;1
+38;ORB-0038;Adaptador USB-C Ethernet;5;Redes e Conectividade;Conectividade;Nexa;139.0;71.26;0
+39;ORB-0039;Repetidor Wi-Fi;5;Redes e Conectividade;Conectividade;PulseLab;189.0;121.02;1
+40;ORB-0040;Docking station 10 em 1;5;Redes e Conectividade;Conectividade;Orion;379.0;192.52;1
+41;ORB-0041;Suporte notebook alumínio;6;Ergonomia e Home Office;Escritório;PulseLab;159.0;77.27;1
+42;ORB-0042;Cadeira escritório ergonômica;6;Ergonomia e Home Office;Escritório;PulseLab;1199.0;768.08;1
+43;ORB-0043;Luminária de mesa LED;6;Ergonomia e Home Office;Escritório;Zenith;169.0;76.54;1
+44;ORB-0044;Apoio para os pés;6;Ergonomia e Home Office;Escritório;Zenith;139.0;98.15;1
+45;ORB-0045;Suporte articulado monitor;6;Ergonomia e Home Office;Escritório;Nexa;289.0;150.44;1
+46;ORB-0046;Mesa digitalizadora;6;Ergonomia e Home Office;Escritório;PulseLab;459.0;294.69;1
+47;ORB-0047;Organizador de cabos;6;Ergonomia e Home Office;Escritório;PulseLab;69.0;30.0;1
+48;ORB-0048;Desk mat premium;6;Ergonomia e Home Office;Escritório;Orion;99.0;56.66;1
+49;ORB-0049;Controle gamer Bluetooth;7;Acessórios Gamer;Gamer;Nexa;329.0;171.47;1
+50;ORB-0050;Mousepad XXL RGB;7;Acessórios Gamer;Gamer;Aster;189.0;116.36;1
+51;ORB-0051;Base de headset RGB;7;Acessórios Gamer;Gamer;Zenith;129.0;82.57;1
+52;ORB-0052;Carregador duplo controles;7;Acessórios Gamer;Gamer;PulseLab;179.0;82.73;1
+53;ORB-0053;Kit streaming iniciante;7;Acessórios Gamer;Gamer;Voltix;699.0;378.46;1
+54;ORB-0054;Ventoinha RGB kit 3;7;Acessórios Gamer;Gamer;Aster;229.0;156.07;1
+55;ORB-0055;Controle arcade USB;7;Acessórios Gamer;Gamer;Orion;419.0;208.49;1
+56;ORB-0056;Braço articulado microfone;7;Acessórios Gamer;Gamer;Voltix;239.0;159.93;1
+57;ORB-0057;Webcam Full HD;8;Webcams e Iluminação;Áudio e Vídeo;Zenith;259.0;119.88;0
+58;ORB-0058;Webcam 4K;8;Webcams e Iluminação;Áudio e Vídeo;PulseLab;719.0;369.5;1
+59;ORB-0059;Ring light 12 polegadas;8;Webcams e Iluminação;Áudio e Vídeo;Aster;199.0;113.51;1
+60;ORB-0060;Painel LED para vídeo;8;Webcams e Iluminação;Áudio e Vídeo;Aster;349.0;203.52;1
+61;ORB-0061;Tripé de mesa;8;Webcams e Iluminação;Áudio e Vídeo;Aster;99.0;62.42;1
+62;ORB-0062;Capturadora HDMI USB;8;Webcams e Iluminação;Áudio e Vídeo;Voltix;329.0;196.8;1
+63;ORB-0063;Filtro pop para microfone;8;Webcams e Iluminação;Áudio e Vídeo;PulseLab;59.0;36.25;1
+64;ORB-0064;Webcam com tampa privacidade;8;Webcams e Iluminação;Áudio e Vídeo;Orion;309.0;214.3;1

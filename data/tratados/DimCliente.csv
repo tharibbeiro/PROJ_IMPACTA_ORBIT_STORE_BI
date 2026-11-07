@@ -1,0 +1,1201 @@
+﻿cliente_id;nome;email;data_cadastro;cidade;uf;regiao;segmento;canal_aquisicao
+1;Diego Pereira;cliente00001@example.com;2022-08-20;Vitória;ES;Sudeste;Pessoa Física;Redes sociais
+2;Tatiana Vieira;cliente00002@example.com;2022-12-06;Campo Grande;MS;Centro-Oeste;Pessoa Física;Orgânico
+3;Diego Oliveira;cliente00003@example.com;2022-09-29;Cuiabá;MT;Centro-Oeste;Pessoa Física;Redes sociais
+4;Beatriz Pereira;cliente00004@example.com;2023-07-16;Campinas;SP;Sudeste;MEI;Indicação
+5;Mariana Teixeira;cliente00005@example.com;2023-02-08;Joinville;SC;Sul;Pessoa Física;Indicação
+6;João Silva;cliente00006@example.com;2023-02-24;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+7;Lucas Silva;cliente00007@example.com;2023-03-25;Belo Horizonte;MG;Sudeste;Pessoa Física;Redes sociais
+8;Renata Souza;cliente00008@example.com;2022-09-16;Belo Horizonte;MG;Sudeste;Pessoa Física;Redes sociais
+9;Renata Teixeira;cliente00009@example.com;2023-06-18;Goiânia;GO;Centro-Oeste;Pessoa Física;Orgânico
+10;Caio Santos;cliente00010@example.com;2022-10-22;Uberlândia;MG;Sudeste;Pessoa Física;Orgânico
+11;Yasmin Silva;cliente00011@example.com;2022-08-24;Porto Alegre;RS;Sul;Pessoa Física;Indicação
+12;Sérgio Teixeira;cliente00012@example.com;2023-03-05;Porto Alegre;RS;Sul;Pessoa Física;Indicação
+13;Ana Barbosa;cliente00013@example.com;2023-01-29;São Paulo;SP;Sudeste;MEI;Indicação
+14;Gabriela Nascimento;cliente00014@example.com;2023-01-18;Porto Alegre;RS;Sul;Pessoa Física;Redes sociais
+15;Nicolas Vieira;cliente00015@example.com;2024-02-09;Porto Alegre;RS;Sul;Pessoa Física;Orgânico
+16;Olivia Teixeira;cliente00016@example.com;2023-10-13;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Redes sociais
+17;Carla Nascimento;cliente00017@example.com;2023-01-10;Recife;PE;Nordeste;Pessoa Física;Redes sociais
+18;Eduarda Silva;cliente00018@example.com;2023-09-28;Recife;PE;Nordeste;Pessoa Física;Orgânico
+19;Vinicius Lima;cliente00019@example.com;2024-04-03;Santos;SP;Sudeste;MEI;Indicação
+20;Eduarda Almeida;cliente00020@example.com;2022-09-18;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Redes sociais
+21;Tatiana Fernandes;cliente00021@example.com;2022-10-15;Natal;RN;Nordeste;Pessoa Física;Pago
+22;Eduarda Oliveira;cliente00022@example.com;2023-01-04;Curitiba;PR;Sul;Pessoa Física;Pago
+23;Mariana Almeida;cliente00023@example.com;2022-12-16;Natal;RN;Nordeste;Pessoa Física;Indicação
+24;Yasmin Ribeiro;cliente00024@example.com;2023-12-11;Fortaleza;CE;Nordeste;Pessoa Física;Indicação
+25;Beatriz Oliveira;cliente00025@example.com;2024-01-03;Belo Horizonte;MG;Sudeste;MEI;Pago
+26;Eduarda Teixeira;cliente00026@example.com;2023-05-18;Campinas;SP;Sudeste;Pessoa Física;Orgânico
+27;Sérgio Rocha;cliente00027@example.com;2023-07-18;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+28;Olivia Lima;cliente00028@example.com;2023-10-28;Uberlândia;MG;Sudeste;Pessoa Física;Pago
+29;Renata Fernandes;cliente00029@example.com;2023-10-01;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+30;Carla Rocha;cliente00030@example.com;2023-02-26;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Redes sociais
+31;Nicolas Oliveira;cliente00031@example.com;2023-06-13;Uberlândia;MG;Sudeste;Pessoa Física;Orgânico
+32;Renata Teixeira;cliente00032@example.com;2023-11-19;Goiânia;GO;Centro-Oeste;Pessoa Física;Orgânico
+33;Olivia Pereira;cliente00033@example.com;2023-07-04;Belo Horizonte;MG;Sudeste;Pessoa Física;Pago
+34;Lucas Vieira;cliente00034@example.com;2022-08-22;Porto Alegre;RS;Sul;Pessoa Física;Indicação
+35;Sérgio Lima;cliente00035@example.com;2022-08-10;Londrina;PR;Sul;Pessoa Física;Pago
+36;Diego Nascimento;cliente00036@example.com;2022-11-23;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+37;Lucas Gomes;cliente00037@example.com;2024-01-21;Joinville;SC;Sul;Pessoa Física;Orgânico
+38;João Pereira;cliente00038@example.com;2023-04-29;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+39;Nicolas Almeida;cliente00039@example.com;2023-05-10;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+40;Beatriz Vieira;cliente00040@example.com;2023-03-28;Londrina;PR;Sul;Pessoa Física;Orgânico
+41;Mariana Pereira;cliente00041@example.com;2023-01-01;Florianópolis;SC;Sul;MEI;Orgânico
+42;Beatriz Ribeiro;cliente00042@example.com;2023-07-26;Salvador;BA;Nordeste;Pessoa Física;Indicação
+43;Bruno Santos;cliente00043@example.com;2023-06-10;Salvador;BA;Nordeste;Pessoa Física;Orgânico
+44;João Santos;cliente00044@example.com;2023-12-17;Rio De Janeiro;RJ;Sudeste;MEI;Pago
+45;Sérgio Barbosa;cliente00045@example.com;2023-10-18;Caxias Do Sul;RS;Sul;Pessoa Física;Orgânico
+46;Bruno Fernandes;cliente00046@example.com;2023-03-04;Curitiba;PR;Sul;Pessoa Física;Pago
+47;Lucas Santos;;2023-08-15;Belo Horizonte;MG;Sudeste;Pessoa Física;Pago
+48;Felipe Vieira;cliente00048@example.com;2022-10-04;São Paulo;SP;Sudeste;Pessoa Física;Pago
+49;Henrique Almeida;cliente00049@example.com;2022-10-25;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+50;Eduarda Cardoso;cliente00050@example.com;2022-06-22;Campo Grande;MS;Centro-Oeste;Pessoa Física;Indicação
+51;Karina Teixeira;cliente00051@example.com;2023-02-23;Brasília;DF;Centro-Oeste;Pessoa Física;Orgânico
+52;Yasmin Martins;cliente00052@example.com;2023-09-25;Uberlândia;MG;Sudeste;Pessoa Física;Redes sociais
+53;Caio Ribeiro;cliente00053@example.com;2023-07-16;Natal;RN;Nordeste;Pessoa Física;Pago
+54;Lucas Ribeiro;cliente00054@example.com;2023-02-06;Uberlândia;MG;Sudeste;Pessoa Física;Indicação
+55;Gabriela Gomes;cliente00055@example.com;2023-11-28;Florianópolis;SC;Sul;Pessoa Física;Indicação
+56;Renata Santos;cliente00056@example.com;2023-07-29;Goiânia;GO;Centro-Oeste;Pessoa Física;Indicação
+57;Eduarda Dias;cliente00057@example.com;2024-04-27;Manaus;AM;Norte;Pessoa Física;Indicação
+58;Tatiana Barbosa;cliente00058@example.com;2023-04-23;Natal;RN;Nordeste;MEI;Pago
+59;Renata Dias;cliente00059@example.com;2023-02-21;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+60;Bruno Lima;cliente00060@example.com;2023-05-21;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+61;Eduarda Rocha;cliente00061@example.com;2024-02-09;Campinas;SP;Sudeste;MEI;Indicação
+62;Sérgio Gomes;cliente00062@example.com;2024-01-15;Caxias Do Sul;RS;Sul;Pessoa Física;Pago
+63;Felipe Almeida;cliente00063@example.com;2022-07-22;Salvador;BA;Nordeste;Pessoa Física;Orgânico
+64;Lucas Oliveira;cliente00064@example.com;2023-09-28;Campinas;SP;Sudeste;Pessoa Física;Indicação
+65;Paulo Dias;cliente00065@example.com;2024-01-23;Salvador;BA;Nordeste;Pessoa Física;Indicação
+66;Yasmin Dias;cliente00066@example.com;2022-09-07;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+67;Lucas Silva;cliente00067@example.com;2023-02-02;Fortaleza;CE;Nordeste;Pessoa Física;Orgânico
+68;Paulo Oliveira;cliente00068@example.com;2023-06-26;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+69;Karina Souza;cliente00069@example.com;2023-08-23;Belo Horizonte;MG;Sudeste;Pessoa Física;Pago
+70;Caio Ribeiro;cliente00070@example.com;2023-04-21;Brasília;DF;Centro-Oeste;Pessoa Física;Redes sociais
+71;Gabriela Fernandes;cliente00071@example.com;2023-12-11;Belo Horizonte;MG;Sudeste;Pessoa Física;Orgânico
+72;Karina Nascimento;cliente00072@example.com;2022-12-08;Campo Grande;MS;Centro-Oeste;Pessoa Física;Indicação
+73;Henrique Pereira;cliente00073@example.com;2022-07-06;Belém;PA;Norte;Pessoa Física;Redes sociais
+74;Yasmin Rocha;cliente00074@example.com;2022-09-09;Belo Horizonte;MG;Sudeste;Pessoa Física;Indicação
+75;Diego Souza;cliente00075@example.com;2022-10-30;Recife;PE;Nordeste;Pessoa Física;Indicação
+76;Yasmin Pereira;cliente00076@example.com;2022-12-31;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+77;Eduarda Pereira;cliente00077@example.com;2023-03-03;Londrina;PR;Sul;Pessoa Física;Redes sociais
+78;Karina Almeida;cliente00078@example.com;2023-06-19;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+79;Karina Almeida;cliente00079@example.com;2023-01-28;Brasília;DF;Centro-Oeste;Pessoa Física;Indicação
+80;Carla Vieira;cliente00080@example.com;2022-06-30;Porto Alegre;RS;Sul;MEI;Pago
+81;Karina Martins;cliente00081@example.com;2023-07-16;Fortaleza;CE;Nordeste;Pessoa Física;Orgânico
+82;Tatiana Santos;cliente00082@example.com;2022-07-11;Caxias Do Sul;RS;Sul;Pessoa Física;Indicação
+83;Nicolas Barbosa;cliente00083@example.com;2022-09-21;Campinas;SP;Sudeste;MEI;Redes sociais
+84;Beatriz Pereira;cliente00084@example.com;2023-06-11;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+85;Isabela Barbosa;cliente00085@example.com;2023-08-22;Joinville;SC;Sul;Pessoa Física;Indicação
+86;Isabela Silva;cliente00086@example.com;2023-08-04;Campinas;SP;Sudeste;Pessoa Física;Redes sociais
+87;João Lima;cliente00087@example.com;2022-11-22;Londrina;PR;Sul;Pessoa Física;Indicação
+88;Paulo Cardoso;cliente00088@example.com;2022-10-06;Campo Grande;MS;Centro-Oeste;Pessoa Física;Indicação
+89;Lucas Gomes;cliente00089@example.com;2022-07-18;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+90;Yasmin Dias;cliente00090@example.com;2023-06-02;Fortaleza;CE;Nordeste;Pessoa Física;Pago
+91;Nicolas Teixeira;cliente00091@example.com;2024-01-02;Salvador;BA;Nordeste;Pessoa Física;Indicação
+92;Caio Souza;cliente00092@example.com;2023-05-05;São Paulo;SP;Sudeste;MEI;Redes sociais
+93;Sérgio Vieira;cliente00093@example.com;2022-07-24;Campinas;SP;Sudeste;Pessoa Física;Pago
+94;Beatriz Barbosa;;2024-02-05;Goiânia;GO;Centro-Oeste;Pessoa Física;Pago
+95;Eduarda Nascimento;cliente00095@example.com;2023-02-01;Natal;RN;Nordeste;Pessoa Física;Pago
+96;Caio Barbosa;cliente00096@example.com;2023-11-09;Brasília;DF;Centro-Oeste;Pessoa Física;Redes sociais
+97;Sérgio Almeida;cliente00097@example.com;2022-10-24;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Orgânico
+98;Olivia Santos;cliente00098@example.com;2023-03-11;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+99;Paulo Almeida;cliente00099@example.com;2023-03-10;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+100;Felipe Teixeira;cliente00100@example.com;2024-01-16;Campinas;SP;Sudeste;Pessoa Física;Pago
+101;Felipe Martins;cliente00101@example.com;2022-10-05;Campinas;SP;Sudeste;Pessoa Física;Redes sociais
+102;Juliana Santos;cliente00102@example.com;2023-02-16;Uberlândia;MG;Sudeste;MEI;Redes sociais
+103;Sérgio Souza;cliente00103@example.com;2023-07-18;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+104;Lucas Gomes;cliente00104@example.com;2023-09-24;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+105;Ana Vieira;cliente00105@example.com;2023-06-12;Belém;PA;Norte;Pessoa Física;Redes sociais
+106;Ana Souza;cliente00106@example.com;2023-06-25;Curitiba;PR;Sul;Pessoa Física;Pago
+107;Diego Fernandes;cliente00107@example.com;2023-04-24;Curitiba;PR;Sul;Pessoa Física;Orgânico
+108;Caio Vieira;cliente00108@example.com;2023-05-05;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+109;Sérgio Teixeira;cliente00109@example.com;2023-12-01;Cuiabá;MT;Centro-Oeste;Pessoa Física;Orgânico
+110;Tatiana Barbosa;cliente00110@example.com;2022-10-21;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+111;Vinicius Souza;cliente00111@example.com;2023-10-17;Curitiba;PR;Sul;Pessoa Física;Orgânico
+112;Mariana Cardoso;cliente00112@example.com;2023-04-18;Campinas;SP;Sudeste;MEI;Orgânico
+113;Vinicius Teixeira;cliente00113@example.com;2023-03-03;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+114;Henrique Pereira;cliente00114@example.com;2022-11-09;Caxias Do Sul;RS;Sul;Pessoa Física;Indicação
+115;Nicolas Barbosa;cliente00115@example.com;2023-10-16;Vitória;ES;Sudeste;Pessoa Física;Orgânico
+116;Tatiana Souza;cliente00116@example.com;2023-01-06;Londrina;PR;Sul;Pessoa Física;Pago
+117;Mariana Barbosa;cliente00117@example.com;2023-10-24;Curitiba;PR;Sul;Pessoa Física;Indicação
+118;Isabela Santos;cliente00118@example.com;2024-01-11;Salvador;BA;Nordeste;Pessoa Física;Pago
+119;Renata Dias;cliente00119@example.com;2023-06-11;Curitiba;PR;Sul;Pessoa Física;Redes sociais
+120;Mariana Dias;cliente00120@example.com;2023-02-11;Goiânia;GO;Centro-Oeste;MEI;Pago
+121;Gabriela Barbosa;cliente00121@example.com;2023-11-22;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+122;Carla Nascimento;cliente00122@example.com;2024-01-18;Campinas;SP;Sudeste;Pessoa Física;Orgânico
+123;Olivia Vieira;cliente00123@example.com;2023-04-30;Porto Alegre;RS;Sul;Pessoa Física;Orgânico
+124;Gabriela Souza;cliente00124@example.com;2023-11-11;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+125;Gabriela Almeida;cliente00125@example.com;2023-11-24;Rio De Janeiro;RJ;Sudeste;MEI;Orgânico
+126;Caio Vieira;cliente00126@example.com;2022-12-05;Campinas;SP;Sudeste;Pessoa Física;Orgânico
+127;Sérgio Ribeiro;cliente00127@example.com;2023-03-22;Campinas;SP;Sudeste;Pessoa Física;Orgânico
+128;Ana Santos;cliente00128@example.com;2024-01-21;Belo Horizonte;MG;Sudeste;Pessoa Física;Pago
+129;Felipe Martins;cliente00129@example.com;2023-10-17;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+130;Isabela Gomes;cliente00130@example.com;2024-03-09;Uberlândia;MG;Sudeste;Pessoa Física;Pago
+131;Tatiana Teixeira;cliente00131@example.com;2022-10-10;Brasília;DF;Centro-Oeste;Pessoa Física;Indicação
+132;Felipe Souza;cliente00132@example.com;2023-08-11;Curitiba;PR;Sul;Pessoa Física;Orgânico
+133;Caio Souza;cliente00133@example.com;2023-05-30;Florianópolis;SC;Sul;MEI;Orgânico
+134;Juliana Almeida;cliente00134@example.com;2023-05-31;Joinville;SC;Sul;Pessoa Física;Pago
+135;João Gomes;cliente00135@example.com;2022-07-07;Rio De Janeiro;RJ;Sudeste;MEI;Indicação
+136;Juliana Gomes;cliente00136@example.com;2023-11-24;Caxias Do Sul;RS;Sul;Pessoa Física;Pago
+137;Vinicius Teixeira;cliente00137@example.com;2022-09-26;Fortaleza;CE;Nordeste;Pessoa Física;Orgânico
+138;Vinicius Teixeira;cliente00138@example.com;2023-01-12;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+139;Eduarda Rocha;cliente00139@example.com;2023-11-08;Joinville;SC;Sul;Pessoa Física;Orgânico
+140;Henrique Pereira;cliente00140@example.com;2023-11-08;Belo Horizonte;MG;Sudeste;MEI;Redes sociais
+141;Olivia Oliveira;;2023-03-06;Santos;SP;Sudeste;Pessoa Física;Indicação
+142;Felipe Dias;cliente00142@example.com;2024-01-21;Florianópolis;SC;Sul;Pessoa Física;Indicação
+143;Caio Rocha;cliente00143@example.com;2023-03-15;Campinas;SP;Sudeste;Pessoa Física;Pago
+144;Mariana Fernandes;cliente00144@example.com;2022-10-09;Florianópolis;SC;Sul;Pessoa Física;Indicação
+145;Sérgio Vieira;cliente00145@example.com;2023-07-03;Belém;PA;Norte;Pessoa Física;Redes sociais
+146;Henrique Gomes;cliente00146@example.com;2024-01-12;Curitiba;PR;Sul;Pessoa Física;Redes sociais
+147;Beatriz Fernandes;cliente00147@example.com;2023-04-18;Belo Horizonte;MG;Sudeste;Pessoa Física;Indicação
+148;Juliana Barbosa;cliente00148@example.com;2022-10-17;Goiânia;GO;Centro-Oeste;Pessoa Física;Redes sociais
+149;Henrique Vieira;cliente00149@example.com;2022-10-07;Salvador;BA;Nordeste;Pessoa Física;Indicação
+150;Lucas Rocha;cliente00150@example.com;2024-04-03;Curitiba;PR;Sul;Pessoa Física;Redes sociais
+151;Vinicius Ribeiro;cliente00151@example.com;2023-07-31;Salvador;BA;Nordeste;Pessoa Física;Orgânico
+152;Diego Martins;cliente00152@example.com;2022-11-24;Campinas;SP;Sudeste;Pessoa Física;Pago
+153;Nicolas Teixeira;cliente00153@example.com;2024-04-17;Campinas;SP;Sudeste;Pessoa Física;Orgânico
+154;Diego Lima;cliente00154@example.com;2022-12-16;Belo Horizonte;MG;Sudeste;Pessoa Física;Orgânico
+155;Nicolas Martins;cliente00155@example.com;2024-01-21;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+156;Beatriz Fernandes;cliente00156@example.com;2022-11-28;Uberlândia;MG;Sudeste;Pessoa Física;Pago
+157;Sérgio Souza;cliente00157@example.com;2023-07-30;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+158;Eduarda Silva;cliente00158@example.com;2024-02-08;Uberlândia;MG;Sudeste;Pessoa Física;Redes sociais
+159;Eduarda Cardoso;cliente00159@example.com;2022-12-30;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+160;Olivia Souza;cliente00160@example.com;2022-11-29;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+161;Nicolas Gomes;cliente00161@example.com;2023-12-26;Belo Horizonte;MG;Sudeste;Pessoa Física;Pago
+162;Nicolas Dias;cliente00162@example.com;2023-07-14;Niterói;RJ;Sudeste;Pessoa Física;Indicação
+163;Isabela Santos;cliente00163@example.com;2023-08-15;Brasília;DF;Centro-Oeste;MEI;Orgânico
+164;Nicolas Cardoso;cliente00164@example.com;2023-06-25;Londrina;PR;Sul;Pessoa Física;Indicação
+165;Henrique Teixeira;cliente00165@example.com;2022-12-31;Campinas;SP;Sudeste;Pessoa Física;Indicação
+166;Renata Silva;cliente00166@example.com;2023-06-01;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Redes sociais
+167;Felipe Ribeiro;cliente00167@example.com;2023-04-26;Goiânia;GO;Centro-Oeste;Pessoa Física;Pago
+168;Ana Lima;cliente00168@example.com;2023-04-11;Florianópolis;SC;Sul;Pessoa Física;Orgânico
+169;Beatriz Pereira;cliente00169@example.com;2023-02-18;Belo Horizonte;MG;Sudeste;Pessoa Física;Orgânico
+170;Lucas Santos;cliente00170@example.com;2022-12-16;Brasília;DF;Centro-Oeste;Pessoa Física;Indicação
+171;Ana Ribeiro;cliente00171@example.com;2023-03-11;Belo Horizonte;MG;Sudeste;Pessoa Física;Orgânico
+172;Lucas Santos;cliente00172@example.com;2024-02-21;Uberlândia;MG;Sudeste;Pessoa Física;Orgânico
+173;Diego Pereira;cliente00173@example.com;2023-02-17;Belo Horizonte;MG;Sudeste;MEI;Indicação
+174;Ana Lima;cliente00174@example.com;2023-12-10;Campinas;SP;Sudeste;Pessoa Física;Indicação
+175;Vinicius Vieira;cliente00175@example.com;2022-11-09;Belo Horizonte;MG;Sudeste;Pessoa Física;Orgânico
+176;João Fernandes;cliente00176@example.com;2022-12-26;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+177;Diego Cardoso;cliente00177@example.com;2022-12-08;Manaus;AM;Norte;Pessoa Física;Orgânico
+178;João Santos;cliente00178@example.com;2022-09-29;Fortaleza;CE;Nordeste;Pessoa Física;Orgânico
+179;Nicolas Oliveira;cliente00179@example.com;2022-08-11;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+180;Carla Silva;cliente00180@example.com;2023-03-06;Belém;PA;Norte;Pessoa Física;Pago
+181;Ana Oliveira;cliente00181@example.com;2023-10-28;Brasília;DF;Centro-Oeste;Pessoa Física;Indicação
+182;Juliana Silva;cliente00182@example.com;2023-09-20;Curitiba;PR;Sul;Pessoa Física;Indicação
+183;Ana Dias;cliente00183@example.com;2022-12-20;Campinas;SP;Sudeste;Pessoa Física;Orgânico
+184;Ana Ribeiro;cliente00184@example.com;2023-12-07;Londrina;PR;Sul;Pessoa Física;Pago
+185;Karina Nascimento;cliente00185@example.com;2022-07-26;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+186;Caio Martins;cliente00186@example.com;2023-02-13;Uberlândia;MG;Sudeste;Pessoa Física;Pago
+187;Sérgio Nascimento;cliente00187@example.com;2023-01-30;Porto Alegre;RS;Sul;Pessoa Física;Redes sociais
+188;Lucas Lima;;2023-10-02;Campinas;SP;Sudeste;Pessoa Física;Pago
+189;Vinicius Oliveira;cliente00189@example.com;2022-07-14;Goiânia;GO;Centro-Oeste;MEI;Indicação
+190;Henrique Nascimento;cliente00190@example.com;2023-11-19;Uberlândia;MG;Sudeste;Pessoa Física;Redes sociais
+191;Mariana Dias;cliente00191@example.com;2023-11-01;Campinas;SP;Sudeste;MEI;Redes sociais
+192;Carla Souza;cliente00192@example.com;2023-04-03;Rio De Janeiro;RJ;Sudeste;MEI;Orgânico
+193;Carla Oliveira;cliente00193@example.com;2023-11-20;Brasília;DF;Centro-Oeste;Pessoa Física;Orgânico
+194;Ana Pereira;cliente00194@example.com;2023-03-04;Campinas;SP;Sudeste;Pessoa Física;Redes sociais
+195;Beatriz Pereira;cliente00195@example.com;2023-05-31;Curitiba;PR;Sul;Pessoa Física;Redes sociais
+196;Beatriz Souza;cliente00196@example.com;2024-01-24;Porto Alegre;RS;Sul;Pessoa Física;Pago
+197;Sérgio Nascimento;cliente00197@example.com;2022-10-08;Curitiba;PR;Sul;Pessoa Física;Orgânico
+198;Yasmin Almeida;cliente00198@example.com;2023-11-18;Belo Horizonte;MG;Sudeste;Pessoa Física;Redes sociais
+199;Mariana Dias;cliente00199@example.com;2023-02-01;Caxias Do Sul;RS;Sul;Pessoa Física;Pago
+200;Nicolas Martins;cliente00200@example.com;2023-05-15;Joinville;SC;Sul;Pessoa Física;Orgânico
+201;Diego Barbosa;cliente00201@example.com;2022-11-07;Brasília;DF;Centro-Oeste;Pessoa Física;Redes sociais
+202;Yasmin Fernandes;cliente00202@example.com;2023-04-12;Goiânia;GO;Centro-Oeste;Pessoa Física;Redes sociais
+203;João Santos;cliente00203@example.com;2022-09-28;Cuiabá;MT;Centro-Oeste;Pessoa Física;Redes sociais
+204;Mariana Ribeiro;cliente00204@example.com;2022-10-26;Salvador;BA;Nordeste;Pessoa Física;Indicação
+205;Caio Martins;cliente00205@example.com;2023-06-16;Brasília;DF;Centro-Oeste;Pessoa Física;Pago
+206;Juliana Nascimento;cliente00206@example.com;2022-10-31;Campinas;SP;Sudeste;Pessoa Física;Pago
+207;João Santos;cliente00207@example.com;2022-10-02;Uberlândia;MG;Sudeste;MEI;Indicação
+208;Caio Cardoso;cliente00208@example.com;2023-07-20;Florianópolis;SC;Sul;Pessoa Física;Orgânico
+209;Mariana Teixeira;cliente00209@example.com;2023-05-31;Curitiba;PR;Sul;Pessoa Física;Indicação
+210;Diego Barbosa;cliente00210@example.com;2023-10-23;Curitiba;PR;Sul;MEI;Indicação
+211;Henrique Nascimento;cliente00211@example.com;2023-04-02;Florianópolis;SC;Sul;Pessoa Física;Pago
+212;Tatiana Nascimento;cliente00212@example.com;2023-07-16;Brasília;DF;Centro-Oeste;MEI;Orgânico
+213;Sérgio Fernandes;cliente00213@example.com;2023-07-13;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Redes sociais
+214;Carla Ribeiro;cliente00214@example.com;2022-06-08;Belo Horizonte;MG;Sudeste;Pessoa Física;Orgânico
+215;Carla Barbosa;cliente00215@example.com;2024-02-06;Salvador;BA;Nordeste;Pessoa Física;Orgânico
+216;Ana Souza;cliente00216@example.com;2024-01-09;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+217;Gabriela Fernandes;cliente00217@example.com;2023-05-30;Vitória;ES;Sudeste;Pessoa Física;Orgânico
+218;Gabriela Barbosa;cliente00218@example.com;2022-12-03;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Orgânico
+219;Nicolas Rocha;cliente00219@example.com;2023-12-02;Salvador;BA;Nordeste;Pessoa Física;Indicação
+220;Carla Cardoso;cliente00220@example.com;2024-02-02;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+221;Bruno Oliveira;cliente00221@example.com;2023-06-03;São Paulo;SP;Sudeste;MEI;Indicação
+222;Felipe Rocha;cliente00222@example.com;2022-10-26;Campinas;SP;Sudeste;Pessoa Física;Redes sociais
+223;Diego Pereira;cliente00223@example.com;2023-09-02;Recife;PE;Nordeste;MEI;Orgânico
+224;Eduarda Santos;cliente00224@example.com;2022-08-18;Belo Horizonte;MG;Sudeste;Pessoa Física;Redes sociais
+225;Paulo Almeida;cliente00225@example.com;2022-09-21;Salvador;BA;Nordeste;Pessoa Física;Pago
+226;Gabriela Teixeira;cliente00226@example.com;2023-08-09;São Paulo;SP;Sudeste;Pessoa Física;Pago
+227;Paulo Dias;cliente00227@example.com;2023-11-30;Curitiba;PR;Sul;Pessoa Física;Orgânico
+228;Eduarda Dias;cliente00228@example.com;2022-08-23;Recife;PE;Nordeste;Pessoa Física;Redes sociais
+229;Karina Pereira;cliente00229@example.com;2023-02-27;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+230;Karina Dias;cliente00230@example.com;2023-03-14;Belo Horizonte;MG;Sudeste;Pessoa Física;Indicação
+231;Tatiana Silva;cliente00231@example.com;2022-07-11;Campinas;SP;Sudeste;Pessoa Física;Orgânico
+232;Olivia Gomes;cliente00232@example.com;2023-08-28;Niterói;RJ;Sudeste;Pessoa Física;Pago
+233;Renata Gomes;cliente00233@example.com;2023-07-09;Londrina;PR;Sul;Pessoa Física;Pago
+234;Caio Oliveira;cliente00234@example.com;2023-08-01;São Paulo;SP;Sudeste;Pessoa Física;Pago
+235;Mariana Gomes;;2022-09-15;Curitiba;PR;Sul;Pessoa Física;Indicação
+236;Bruno Rocha;cliente00236@example.com;2023-12-30;São Paulo;SP;Sudeste;MEI;Redes sociais
+237;Ana Oliveira;cliente00237@example.com;2023-12-26;São Paulo;SP;Sudeste;MEI;Orgânico
+238;Diego Martins;cliente00238@example.com;2023-11-02;Santos;SP;Sudeste;Pessoa Física;Redes sociais
+239;Tatiana Ribeiro;cliente00239@example.com;2022-11-28;Salvador;BA;Nordeste;MEI;Redes sociais
+240;Renata Fernandes;cliente00240@example.com;2022-11-29;Recife;PE;Nordeste;Pessoa Física;Pago
+241;Diego Rocha;cliente00241@example.com;2023-07-29;Florianópolis;SC;Sul;Pessoa Física;Indicação
+242;Mariana Barbosa;cliente00242@example.com;2024-01-22;Belo Horizonte;MG;Sudeste;Pessoa Física;Redes sociais
+243;Caio Rocha;cliente00243@example.com;2023-03-16;Florianópolis;SC;Sul;Pessoa Física;Pago
+244;Paulo Oliveira;cliente00244@example.com;2023-05-01;Brasília;DF;Centro-Oeste;Pessoa Física;Pago
+245;Juliana Ribeiro;cliente00245@example.com;2024-02-26;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+246;Carla Souza;cliente00246@example.com;2023-10-09;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+247;Henrique Martins;cliente00247@example.com;2023-11-28;Florianópolis;SC;Sul;Pessoa Física;Indicação
+248;Bruno Vieira;cliente00248@example.com;2022-06-25;Joinville;SC;Sul;Pessoa Física;Indicação
+249;Isabela Lima;cliente00249@example.com;2023-10-24;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+250;Eduarda Gomes;cliente00250@example.com;2023-08-20;Niterói;RJ;Sudeste;Pessoa Física;Pago
+251;Ana Ribeiro;cliente00251@example.com;2023-09-23;Belém;PA;Norte;Pessoa Física;Pago
+252;Vinicius Nascimento;cliente00252@example.com;2022-09-19;Cuiabá;MT;Centro-Oeste;Pessoa Física;Orgânico
+253;Renata Fernandes;cliente00253@example.com;2022-11-08;Goiânia;GO;Centro-Oeste;Pessoa Física;Orgânico
+254;Henrique Ribeiro;cliente00254@example.com;2023-10-09;Goiânia;GO;Centro-Oeste;Pessoa Física;Pago
+255;Caio Teixeira;cliente00255@example.com;2023-01-31;Salvador;BA;Nordeste;Pessoa Física;Redes sociais
+256;Paulo Rocha;cliente00256@example.com;2023-10-24;São Paulo;SP;Sudeste;Pessoa Física;Pago
+257;João Rocha;cliente00257@example.com;2023-04-16;Curitiba;PR;Sul;Pessoa Física;Indicação
+258;Eduarda Silva;cliente00258@example.com;2023-11-29;Belo Horizonte;MG;Sudeste;Pessoa Física;Redes sociais
+259;João Nascimento;cliente00259@example.com;2023-01-13;Brasília;DF;Centro-Oeste;Pessoa Física;Indicação
+260;Juliana Silva;cliente00260@example.com;2023-08-20;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+261;Karina Almeida;cliente00261@example.com;2023-02-24;Rio De Janeiro;RJ;Sudeste;MEI;Orgânico
+262;Tatiana Santos;cliente00262@example.com;2022-12-26;São Paulo;SP;Sudeste;Pessoa Física;Pago
+263;Gabriela Teixeira;cliente00263@example.com;2023-10-21;Uberlândia;MG;Sudeste;Pessoa Física;Redes sociais
+264;Olivia Dias;cliente00264@example.com;2023-01-27;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+265;Vinicius Oliveira;cliente00265@example.com;2024-01-17;Goiânia;GO;Centro-Oeste;Pessoa Física;Orgânico
+266;Karina Santos;cliente00266@example.com;2023-12-08;Curitiba;PR;Sul;Pessoa Física;Orgânico
+267;Paulo Pereira;cliente00267@example.com;2023-03-06;Belo Horizonte;MG;Sudeste;Pessoa Física;Indicação
+268;Sérgio Barbosa;cliente00268@example.com;2022-08-26;Vitória;ES;Sudeste;Pessoa Física;Pago
+269;Tatiana Santos;cliente00269@example.com;2023-07-07;Campinas;SP;Sudeste;Pessoa Física;Redes sociais
+270;Nicolas Pereira;cliente00270@example.com;2022-08-31;Santos;SP;Sudeste;Pessoa Física;Orgânico
+271;Tatiana Teixeira;cliente00271@example.com;2022-11-19;Florianópolis;SC;Sul;Pessoa Física;Orgânico
+272;Felipe Teixeira;cliente00272@example.com;2023-07-16;Goiânia;GO;Centro-Oeste;Pessoa Física;Orgânico
+273;Carla Santos;cliente00273@example.com;2023-12-16;Natal;RN;Nordeste;Pessoa Física;Pago
+274;Paulo Teixeira;cliente00274@example.com;2023-01-16;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+275;Gabriela Cardoso;cliente00275@example.com;2022-12-16;Campo Grande;MS;Centro-Oeste;Pessoa Física;Redes sociais
+276;Isabela Lima;cliente00276@example.com;2023-06-30;Campinas;SP;Sudeste;Pessoa Física;Redes sociais
+277;Olivia Silva;cliente00277@example.com;2023-12-18;Londrina;PR;Sul;Pessoa Física;Indicação
+278;Gabriela Oliveira;cliente00278@example.com;2023-03-15;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+279;Felipe Cardoso;cliente00279@example.com;2024-01-17;Curitiba;PR;Sul;Pessoa Física;Orgânico
+280;Eduarda Santos;cliente00280@example.com;2022-11-10;Porto Alegre;RS;Sul;MEI;Pago
+281;Felipe Silva;cliente00281@example.com;2023-10-01;Campo Grande;MS;Centro-Oeste;Pessoa Física;Orgânico
+282;Felipe Nascimento;;2022-09-10;Brasília;DF;Centro-Oeste;Pessoa Física;Orgânico
+283;Beatriz Fernandes;cliente00283@example.com;2023-01-21;Joinville;SC;Sul;Pessoa Física;Orgânico
+284;Paulo Oliveira;cliente00284@example.com;2023-02-22;Campinas;SP;Sudeste;Pessoa Física;Pago
+285;Paulo Dias;cliente00285@example.com;2023-01-07;Vitória;ES;Sudeste;Pessoa Física;Pago
+286;Nicolas Barbosa;cliente00286@example.com;2023-06-30;Caxias Do Sul;RS;Sul;Pessoa Física;Orgânico
+287;Carla Oliveira;cliente00287@example.com;2023-06-26;Niterói;RJ;Sudeste;Pessoa Física;Redes sociais
+288;Lucas Vieira;cliente00288@example.com;2023-11-21;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+289;Caio Teixeira;cliente00289@example.com;2023-08-01;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Orgânico
+290;Diego Lima;cliente00290@example.com;2024-01-30;Goiânia;GO;Centro-Oeste;Pessoa Física;Indicação
+291;Beatriz Almeida;cliente00291@example.com;2023-10-08;Curitiba;PR;Sul;Pessoa Física;Orgânico
+292;Vinicius Pereira;cliente00292@example.com;2022-11-11;Cuiabá;MT;Centro-Oeste;MEI;Orgânico
+293;Carla Barbosa;cliente00293@example.com;2023-04-03;São Paulo;SP;Sudeste;MEI;Indicação
+294;Mariana Cardoso;cliente00294@example.com;2023-05-06;Niterói;RJ;Sudeste;Pessoa Física;Pago
+295;Vinicius Fernandes;cliente00295@example.com;2023-12-24;Brasília;DF;Centro-Oeste;Pessoa Física;Orgânico
+296;Yasmin Gomes;cliente00296@example.com;2024-01-18;Natal;RN;Nordeste;Pessoa Física;Orgânico
+297;João Pereira;cliente00297@example.com;2023-12-30;Santos;SP;Sudeste;Pessoa Física;Redes sociais
+298;Yasmin Martins;cliente00298@example.com;2023-03-28;Campinas;SP;Sudeste;Pessoa Física;Orgânico
+299;Nicolas Teixeira;cliente00299@example.com;2023-04-16;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+300;Isabela Teixeira;cliente00300@example.com;2023-08-08;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+301;Lucas Ribeiro;cliente00301@example.com;2023-04-24;Curitiba;PR;Sul;Pessoa Física;Pago
+302;Karina Gomes;cliente00302@example.com;2023-05-26;Curitiba;PR;Sul;Pessoa Física;Redes sociais
+303;Caio Lima;cliente00303@example.com;2023-04-25;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+304;Paulo Ribeiro;cliente00304@example.com;2023-04-22;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+305;Yasmin Vieira;cliente00305@example.com;2023-04-14;Joinville;SC;Sul;Pessoa Física;Redes sociais
+306;Vinicius Cardoso;cliente00306@example.com;2023-05-25;Fortaleza;CE;Nordeste;Pessoa Física;Redes sociais
+307;Olivia Silva;cliente00307@example.com;2022-10-21;Belo Horizonte;MG;Sudeste;Pessoa Física;Orgânico
+308;Sérgio Almeida;cliente00308@example.com;2023-04-16;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Orgânico
+309;Henrique Nascimento;cliente00309@example.com;2023-01-09;São Paulo;SP;Sudeste;Pessoa Física;Pago
+310;Diego Nascimento;cliente00310@example.com;2023-03-07;Campinas;SP;Sudeste;Pessoa Física;Orgânico
+311;Renata Barbosa;cliente00311@example.com;2023-04-14;Brasília;DF;Centro-Oeste;Pessoa Física;Orgânico
+312;Paulo Fernandes;cliente00312@example.com;2023-06-27;Natal;RN;Nordeste;Pessoa Física;Orgânico
+313;Felipe Fernandes;cliente00313@example.com;2024-02-03;Manaus;AM;Norte;Pessoa Física;Indicação
+314;Sérgio Pereira;cliente00314@example.com;2023-01-30;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+315;Yasmin Silva;cliente00315@example.com;2023-02-16;Brasília;DF;Centro-Oeste;Pessoa Física;Redes sociais
+316;Mariana Teixeira;cliente00316@example.com;2022-09-28;Curitiba;PR;Sul;Pessoa Física;Redes sociais
+317;Beatriz Dias;cliente00317@example.com;2023-02-03;Vitória;ES;Sudeste;Pessoa Física;Indicação
+318;Karina Souza;cliente00318@example.com;2022-10-20;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+319;João Teixeira;cliente00319@example.com;2023-03-11;Campinas;SP;Sudeste;Pessoa Física;Redes sociais
+320;Renata Pereira;cliente00320@example.com;2023-01-11;Campinas;SP;Sudeste;Pessoa Física;Indicação
+321;Renata Silva;cliente00321@example.com;2022-11-29;São Paulo;SP;Sudeste;Pessoa Física;Pago
+322;Nicolas Nascimento;cliente00322@example.com;2023-07-15;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+323;Olivia Gomes;cliente00323@example.com;2023-12-28;Cuiabá;MT;Centro-Oeste;Pessoa Física;Redes sociais
+324;Karina Barbosa;cliente00324@example.com;2024-01-04;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Redes sociais
+325;Renata Pereira;cliente00325@example.com;2023-05-05;Porto Alegre;RS;Sul;Pessoa Física;Orgânico
+326;Diego Rocha;cliente00326@example.com;2023-08-24;Londrina;PR;Sul;Pessoa Física;Pago
+327;Eduarda Silva;cliente00327@example.com;2022-11-04;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+328;Juliana Nascimento;cliente00328@example.com;2023-09-30;Campinas;SP;Sudeste;Pessoa Física;Pago
+329;Paulo Teixeira;;2023-02-24;Belo Horizonte;MG;Sudeste;Pessoa Física;Indicação
+330;Paulo Cardoso;cliente00330@example.com;2022-10-29;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Orgânico
+331;Felipe Nascimento;cliente00331@example.com;2022-10-18;Niterói;RJ;Sudeste;Pessoa Física;Pago
+332;Felipe Silva;cliente00332@example.com;2024-03-02;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Orgânico
+333;Tatiana Santos;cliente00333@example.com;2022-08-26;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+334;Diego Oliveira;cliente00334@example.com;2023-09-07;Cuiabá;MT;Centro-Oeste;Pessoa Física;Pago
+335;Renata Dias;cliente00335@example.com;2023-05-25;Joinville;SC;Sul;Pessoa Física;Indicação
+336;Carla Pereira;cliente00336@example.com;2023-03-16;Fortaleza;CE;Nordeste;Pessoa Física;Redes sociais
+337;Carla Fernandes;cliente00337@example.com;2023-08-06;Niterói;RJ;Sudeste;Pessoa Física;Indicação
+338;Yasmin Fernandes;cliente00338@example.com;2023-11-10;Belo Horizonte;MG;Sudeste;Pessoa Física;Redes sociais
+339;Felipe Rocha;cliente00339@example.com;2023-06-05;Recife;PE;Nordeste;Pessoa Física;Orgânico
+340;Felipe Souza;cliente00340@example.com;2024-02-12;Goiânia;GO;Centro-Oeste;Pessoa Física;Redes sociais
+341;Lucas Oliveira;cliente00341@example.com;2023-05-02;Belo Horizonte;MG;Sudeste;Pessoa Física;Pago
+342;Bruno Almeida;cliente00342@example.com;2024-03-18;Belém;PA;Norte;Pessoa Física;Redes sociais
+343;Karina Ribeiro;cliente00343@example.com;2022-11-11;Natal;RN;Nordeste;Pessoa Física;Pago
+344;Isabela Teixeira;cliente00344@example.com;2023-05-21;Curitiba;PR;Sul;MEI;Pago
+345;Eduarda Rocha;cliente00345@example.com;2023-04-21;Caxias Do Sul;RS;Sul;Pessoa Física;Pago
+346;Henrique Martins;cliente00346@example.com;2023-05-25;Vitória;ES;Sudeste;Pessoa Física;Indicação
+347;Tatiana Almeida;cliente00347@example.com;2023-10-07;Porto Alegre;RS;Sul;Pessoa Física;Redes sociais
+348;Lucas Pereira;cliente00348@example.com;2023-04-17;Santos;SP;Sudeste;Pessoa Física;Pago
+349;Isabela Oliveira;cliente00349@example.com;2023-05-19;Vitória;ES;Sudeste;Pessoa Física;Indicação
+350;Juliana Ribeiro;cliente00350@example.com;2023-08-01;Florianópolis;SC;Sul;Pessoa Física;Orgânico
+351;Olivia Barbosa;cliente00351@example.com;2023-09-28;Brasília;DF;Centro-Oeste;Pessoa Física;Pago
+352;Caio Vieira;cliente00352@example.com;2024-02-21;Belo Horizonte;MG;Sudeste;Pessoa Física;Pago
+353;Nicolas Teixeira;cliente00353@example.com;2022-12-24;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+354;Karina Dias;cliente00354@example.com;2022-08-06;Belém;PA;Norte;Pessoa Física;Redes sociais
+355;Mariana Dias;cliente00355@example.com;2023-06-17;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+356;Karina Martins;cliente00356@example.com;2022-10-24;Belo Horizonte;MG;Sudeste;Pessoa Física;Orgânico
+357;Tatiana Barbosa;cliente00357@example.com;2023-11-15;Curitiba;PR;Sul;Pessoa Física;Pago
+358;Nicolas Nascimento;cliente00358@example.com;2023-03-11;Cuiabá;MT;Centro-Oeste;Pessoa Física;Pago
+359;Nicolas Vieira;cliente00359@example.com;2023-05-24;Brasília;DF;Centro-Oeste;Pessoa Física;Indicação
+360;Caio Dias;cliente00360@example.com;2022-12-03;Vitória;ES;Sudeste;Pessoa Física;Pago
+361;Felipe Pereira;cliente00361@example.com;2023-12-09;Natal;RN;Nordeste;Pessoa Física;Orgânico
+362;Mariana Pereira;cliente00362@example.com;2022-12-30;Uberlândia;MG;Sudeste;Pessoa Física;Pago
+363;Nicolas Almeida;cliente00363@example.com;2024-02-14;Niterói;RJ;Sudeste;MEI;Indicação
+364;Sérgio Lima;cliente00364@example.com;2023-07-30;Curitiba;PR;Sul;MEI;Redes sociais
+365;Paulo Barbosa;cliente00365@example.com;2023-06-07;Florianópolis;SC;Sul;Pessoa Física;Redes sociais
+366;Ana Rocha;cliente00366@example.com;2023-02-26;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+367;João Nascimento;cliente00367@example.com;2023-02-01;Fortaleza;CE;Nordeste;Pessoa Física;Redes sociais
+368;Renata Dias;cliente00368@example.com;2023-01-10;Uberlândia;MG;Sudeste;Pessoa Física;Pago
+369;João Fernandes;cliente00369@example.com;2023-05-31;Campinas;SP;Sudeste;MEI;Redes sociais
+370;Bruno Gomes;cliente00370@example.com;2022-08-20;Belo Horizonte;MG;Sudeste;MEI;Indicação
+371;Isabela Silva;cliente00371@example.com;2023-04-10;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+372;Gabriela Lima;cliente00372@example.com;2023-08-23;Belo Horizonte;MG;Sudeste;MEI;Redes sociais
+373;Beatriz Lima;cliente00373@example.com;2023-04-28;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+374;Diego Teixeira;cliente00374@example.com;2023-06-28;Cuiabá;MT;Centro-Oeste;Pessoa Física;Pago
+375;Bruno Pereira;cliente00375@example.com;2023-03-17;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+376;Diego Santos;;2022-08-31;Porto Alegre;RS;Sul;Pessoa Física;Indicação
+377;Isabela Lima;cliente00377@example.com;2024-01-30;Manaus;AM;Norte;Pessoa Física;Redes sociais
+378;Lucas Cardoso;cliente00378@example.com;2022-09-19;Goiânia;GO;Centro-Oeste;Pessoa Física;Indicação
+379;Juliana Santos;cliente00379@example.com;2022-12-25;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+380;Juliana Santos;cliente00380@example.com;2023-11-29;Campo Grande;MS;Centro-Oeste;Pessoa Física;Pago
+381;Mariana Rocha;cliente00381@example.com;2023-01-30;Natal;RN;Nordeste;Pessoa Física;Redes sociais
+382;Beatriz Santos;cliente00382@example.com;2023-02-20;Belo Horizonte;MG;Sudeste;Pessoa Física;Redes sociais
+383;Tatiana Souza;cliente00383@example.com;2024-02-06;Brasília;DF;Centro-Oeste;Pessoa Física;Orgânico
+384;Tatiana Teixeira;cliente00384@example.com;2024-01-22;Porto Alegre;RS;Sul;Pessoa Física;Redes sociais
+385;Tatiana Silva;cliente00385@example.com;2023-01-22;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+386;Juliana Almeida;cliente00386@example.com;2022-10-30;São Paulo;SP;Sudeste;MEI;Indicação
+387;Yasmin Vieira;cliente00387@example.com;2022-07-27;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+388;Lucas Barbosa;cliente00388@example.com;2022-10-14;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+389;Lucas Gomes;cliente00389@example.com;2022-11-04;São Paulo;SP;Sudeste;Pessoa Física;Pago
+390;Sérgio Santos;cliente00390@example.com;2023-02-06;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Orgânico
+391;João Souza;cliente00391@example.com;2023-01-09;São Paulo;SP;Sudeste;Pessoa Física;Pago
+392;Paulo Pereira;cliente00392@example.com;2022-09-15;São Paulo;SP;Sudeste;Pessoa Física;Pago
+393;Mariana Gomes;cliente00393@example.com;2023-07-27;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Orgânico
+394;Olivia Vieira;cliente00394@example.com;2022-10-27;Recife;PE;Nordeste;Pessoa Física;Indicação
+395;Tatiana Fernandes;cliente00395@example.com;2023-06-28;Curitiba;PR;Sul;Pessoa Física;Pago
+396;Yasmin Pereira;cliente00396@example.com;2023-06-10;Fortaleza;CE;Nordeste;Pessoa Física;Orgânico
+397;Tatiana Silva;cliente00397@example.com;2024-01-25;Belo Horizonte;MG;Sudeste;Pessoa Física;Pago
+398;Sérgio Cardoso;cliente00398@example.com;2023-08-15;Goiânia;GO;Centro-Oeste;Pessoa Física;Pago
+399;Vinicius Pereira;cliente00399@example.com;2024-01-09;Belo Horizonte;MG;Sudeste;MEI;Orgânico
+400;Ana Nascimento;cliente00400@example.com;2024-01-03;Curitiba;PR;Sul;MEI;Pago
+401;João Souza;cliente00401@example.com;2023-02-10;Curitiba;PR;Sul;Pessoa Física;Indicação
+402;Bruno Gomes;cliente00402@example.com;2022-12-10;Salvador;BA;Nordeste;MEI;Indicação
+403;Olivia Oliveira;cliente00403@example.com;2023-01-08;Curitiba;PR;Sul;Pessoa Física;Orgânico
+404;Ana Teixeira;cliente00404@example.com;2023-10-06;São Paulo;SP;Sudeste;Pessoa Física;Pago
+405;Bruno Santos;cliente00405@example.com;2023-08-06;Niterói;RJ;Sudeste;Pessoa Física;Redes sociais
+406;Carla Fernandes;cliente00406@example.com;2022-11-27;Recife;PE;Nordeste;Pessoa Física;Redes sociais
+407;Yasmin Gomes;cliente00407@example.com;2023-06-30;São Paulo;SP;Sudeste;Pessoa Física;Pago
+408;Gabriela Cardoso;cliente00408@example.com;2022-08-01;Belo Horizonte;MG;Sudeste;Pessoa Física;Indicação
+409;Gabriela Lima;cliente00409@example.com;2023-12-23;Belo Horizonte;MG;Sudeste;MEI;Pago
+410;Carla Gomes;cliente00410@example.com;2024-02-15;Natal;RN;Nordeste;Pessoa Física;Redes sociais
+411;Diego Fernandes;cliente00411@example.com;2023-04-27;Campo Grande;MS;Centro-Oeste;MEI;Pago
+412;Caio Fernandes;cliente00412@example.com;2023-02-01;Curitiba;PR;Sul;Pessoa Física;Orgânico
+413;Carla Nascimento;cliente00413@example.com;2023-01-15;Belo Horizonte;MG;Sudeste;Pessoa Física;Redes sociais
+414;Lucas Fernandes;cliente00414@example.com;2023-11-21;Santos;SP;Sudeste;Pessoa Física;Orgânico
+415;Diego Nascimento;cliente00415@example.com;2023-01-17;Caxias Do Sul;RS;Sul;Pessoa Física;Pago
+416;Karina Teixeira;cliente00416@example.com;2023-05-29;Brasília;DF;Centro-Oeste;Pessoa Física;Redes sociais
+417;Juliana Lima;cliente00417@example.com;2023-12-26;Campinas;SP;Sudeste;Pessoa Física;Orgânico
+418;Bruno Gomes;cliente00418@example.com;2023-09-05;Londrina;PR;Sul;Pessoa Física;Orgânico
+419;Isabela Martins;cliente00419@example.com;2023-07-31;São Paulo;SP;Sudeste;MEI;Redes sociais
+420;Eduarda Dias;cliente00420@example.com;2022-08-18;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+421;Olivia Rocha;cliente00421@example.com;2023-03-23;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+422;Lucas Fernandes;cliente00422@example.com;2023-10-09;Manaus;AM;Norte;Pessoa Física;Redes sociais
+423;Renata Souza;;2022-09-06;Porto Alegre;RS;Sul;Pessoa Física;Orgânico
+424;Caio Pereira;cliente00424@example.com;2022-10-31;Recife;PE;Nordeste;Pessoa Física;Redes sociais
+425;Diego Cardoso;cliente00425@example.com;2023-10-18;Campo Grande;MS;Centro-Oeste;Pessoa Física;Redes sociais
+426;Sérgio Nascimento;cliente00426@example.com;2023-03-15;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+427;Paulo Barbosa;cliente00427@example.com;2023-08-30;Curitiba;PR;Sul;Pessoa Física;Pago
+428;Juliana Oliveira;cliente00428@example.com;2023-03-07;Campinas;SP;Sudeste;Pessoa Física;Orgânico
+429;Tatiana Almeida;cliente00429@example.com;2023-12-29;Vitória;ES;Sudeste;Pessoa Física;Indicação
+430;Tatiana Fernandes;cliente00430@example.com;2023-03-14;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+431;Juliana Cardoso;cliente00431@example.com;2024-03-05;Belém;PA;Norte;Pessoa Física;Pago
+432;Karina Barbosa;cliente00432@example.com;2023-12-24;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+433;Bruno Martins;cliente00433@example.com;2023-03-31;Joinville;SC;Sul;Pessoa Física;Orgânico
+434;Gabriela Oliveira;cliente00434@example.com;2022-12-22;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+435;Eduarda Oliveira;cliente00435@example.com;2022-09-28;Londrina;PR;Sul;Pessoa Física;Pago
+436;Mariana Pereira;cliente00436@example.com;2023-11-14;Belo Horizonte;MG;Sudeste;Pessoa Física;Orgânico
+437;Ana Vieira;cliente00437@example.com;2023-04-01;Salvador;BA;Nordeste;Pessoa Física;Orgânico
+438;Caio Almeida;cliente00438@example.com;2023-12-03;Caxias Do Sul;RS;Sul;Pessoa Física;Redes sociais
+439;Vinicius Dias;cliente00439@example.com;2022-10-28;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+440;Olivia Gomes;cliente00440@example.com;2023-04-21;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+441;Isabela Ribeiro;cliente00441@example.com;2023-05-16;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+442;Gabriela Almeida;cliente00442@example.com;2023-11-12;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+443;Bruno Vieira;cliente00443@example.com;2023-01-16;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+444;Bruno Rocha;cliente00444@example.com;2023-10-26;Salvador;BA;Nordeste;Pessoa Física;Indicação
+445;Vinicius Rocha;cliente00445@example.com;2023-03-04;Florianópolis;SC;Sul;Pessoa Física;Indicação
+446;Yasmin Dias;cliente00446@example.com;2023-07-11;Uberlândia;MG;Sudeste;Pessoa Física;Pago
+447;Diego Barbosa;cliente00447@example.com;2022-10-10;Vitória;ES;Sudeste;Pessoa Física;Indicação
+448;Paulo Pereira;cliente00448@example.com;2023-11-28;Goiânia;GO;Centro-Oeste;Pessoa Física;Pago
+449;Bruno Lima;cliente00449@example.com;2023-05-22;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Redes sociais
+450;Karina Barbosa;cliente00450@example.com;2022-11-21;Vitória;ES;Sudeste;MEI;Indicação
+451;Isabela Almeida;cliente00451@example.com;2023-04-26;Niterói;RJ;Sudeste;Pessoa Física;Indicação
+452;Tatiana Rocha;cliente00452@example.com;2023-10-24;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+453;Juliana Barbosa;cliente00453@example.com;2023-11-01;Uberlândia;MG;Sudeste;Pessoa Física;Orgânico
+454;Renata Pereira;cliente00454@example.com;2022-10-31;Natal;RN;Nordeste;Pessoa Física;Redes sociais
+455;Henrique Oliveira;cliente00455@example.com;2023-06-27;Cuiabá;MT;Centro-Oeste;Pessoa Física;Redes sociais
+456;Renata Pereira;cliente00456@example.com;2022-10-20;Brasília;DF;Centro-Oeste;Pessoa Física;Orgânico
+457;Lucas Dias;cliente00457@example.com;2023-12-20;Belo Horizonte;MG;Sudeste;Pessoa Física;Indicação
+458;Ana Pereira;cliente00458@example.com;2023-02-01;Caxias Do Sul;RS;Sul;MEI;Redes sociais
+459;Bruno Martins;cliente00459@example.com;2023-01-29;Santos;SP;Sudeste;Pessoa Física;Redes sociais
+460;João Vieira;cliente00460@example.com;2022-12-18;São Paulo;SP;Sudeste;Pessoa Física;Pago
+461;João Fernandes;cliente00461@example.com;2023-04-23;Cuiabá;MT;Centro-Oeste;Pessoa Física;Pago
+462;Isabela Santos;cliente00462@example.com;2024-01-03;Salvador;BA;Nordeste;Pessoa Física;Pago
+463;Juliana Rocha;cliente00463@example.com;2023-12-14;Salvador;BA;Nordeste;Pessoa Física;Indicação
+464;Yasmin Souza;cliente00464@example.com;2024-01-20;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+465;Sérgio Teixeira;cliente00465@example.com;2022-10-11;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+466;Juliana Fernandes;cliente00466@example.com;2023-03-14;Brasília;DF;Centro-Oeste;Pessoa Física;Pago
+467;Caio Gomes;cliente00467@example.com;2023-02-02;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+468;Diego Cardoso;cliente00468@example.com;2024-01-24;Belo Horizonte;MG;Sudeste;Pessoa Física;Indicação
+469;Eduarda Cardoso;cliente00469@example.com;2023-08-11;Recife;PE;Nordeste;Pessoa Física;Indicação
+470;Juliana Santos;;2023-05-13;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+471;Caio Rocha;cliente00471@example.com;2023-07-29;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Orgânico
+472;Lucas Pereira;cliente00472@example.com;2022-09-06;Recife;PE;Nordeste;Pessoa Física;Redes sociais
+473;Isabela Fernandes;cliente00473@example.com;2022-09-16;São Paulo;SP;Sudeste;Pessoa Física;Pago
+474;Karina Teixeira;cliente00474@example.com;2023-02-20;Londrina;PR;Sul;Pessoa Física;Indicação
+475;Ana Silva;cliente00475@example.com;2023-12-05;Recife;PE;Nordeste;Pessoa Física;Indicação
+476;Tatiana Martins;cliente00476@example.com;2022-10-01;Belo Horizonte;MG;Sudeste;Pessoa Física;Redes sociais
+477;Caio Vieira;cliente00477@example.com;2024-02-26;Salvador;BA;Nordeste;Pessoa Física;Redes sociais
+478;Henrique Ribeiro;cliente00478@example.com;2023-06-26;Curitiba;PR;Sul;Pessoa Física;Redes sociais
+479;Caio Teixeira;cliente00479@example.com;2022-08-20;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+480;Beatriz Nascimento;cliente00480@example.com;2022-09-20;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+481;Ana Almeida;cliente00481@example.com;2023-10-10;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Orgânico
+482;Olivia Pereira;cliente00482@example.com;2023-05-17;Brasília;DF;Centro-Oeste;Pessoa Física;Orgânico
+483;Yasmin Gomes;cliente00483@example.com;2023-10-04;Recife;PE;Nordeste;Pessoa Física;Indicação
+484;Bruno Pereira;cliente00484@example.com;2023-05-31;Vitória;ES;Sudeste;Pessoa Física;Redes sociais
+485;Ana Souza;cliente00485@example.com;2024-01-18;Natal;RN;Nordeste;Pessoa Física;Redes sociais
+486;Renata Martins;cliente00486@example.com;2023-06-23;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+487;Isabela Pereira;cliente00487@example.com;2024-02-01;Campinas;SP;Sudeste;Pessoa Física;Indicação
+488;Carla Gomes;cliente00488@example.com;2024-01-21;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+489;Ana Ribeiro;cliente00489@example.com;2023-06-07;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Orgânico
+490;João Gomes;cliente00490@example.com;2023-07-14;Porto Alegre;RS;Sul;Pessoa Física;Orgânico
+491;Carla Dias;cliente00491@example.com;2023-12-07;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+492;Yasmin Nascimento;cliente00492@example.com;2023-04-22;Vitória;ES;Sudeste;Pessoa Física;Redes sociais
+493;Paulo Dias;cliente00493@example.com;2023-01-05;Curitiba;PR;Sul;MEI;Redes sociais
+494;Renata Ribeiro;cliente00494@example.com;2024-01-31;Florianópolis;SC;Sul;Pessoa Física;Redes sociais
+495;Isabela Teixeira;cliente00495@example.com;2024-02-07;Florianópolis;SC;Sul;Pessoa Física;Orgânico
+496;Bruno Almeida;cliente00496@example.com;2023-07-02;Brasília;DF;Centro-Oeste;Pessoa Física;Redes sociais
+497;Karina Vieira;cliente00497@example.com;2022-12-17;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Redes sociais
+498;Gabriela Nascimento;cliente00498@example.com;2023-07-18;Curitiba;PR;Sul;Pessoa Física;Indicação
+499;Gabriela Vieira;cliente00499@example.com;2023-10-25;São Paulo;SP;Sudeste;MEI;Indicação
+500;Olivia Rocha;cliente00500@example.com;2022-10-05;Joinville;SC;Sul;Pessoa Física;Orgânico
+501;Caio Dias;cliente00501@example.com;2023-08-20;Cuiabá;MT;Centro-Oeste;Pessoa Física;Orgânico
+502;Beatriz Gomes;cliente00502@example.com;2024-01-28;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Redes sociais
+503;Isabela Martins;cliente00503@example.com;2024-01-22;Goiânia;GO;Centro-Oeste;Pessoa Física;Redes sociais
+504;Bruno Santos;cliente00504@example.com;2023-07-19;Florianópolis;SC;Sul;Pessoa Física;Orgânico
+505;Henrique Gomes;cliente00505@example.com;2023-11-13;Vitória;ES;Sudeste;Pessoa Física;Indicação
+506;Henrique Gomes;cliente00506@example.com;2022-10-26;Fortaleza;CE;Nordeste;Pessoa Física;Redes sociais
+507;Paulo Barbosa;cliente00507@example.com;2023-02-05;Santos;SP;Sudeste;Pessoa Física;Redes sociais
+508;Bruno Ribeiro;cliente00508@example.com;2023-05-06;Vitória;ES;Sudeste;Pessoa Física;Orgânico
+509;Vinicius Pereira;cliente00509@example.com;2022-10-08;Fortaleza;CE;Nordeste;Pessoa Física;Pago
+510;Tatiana Fernandes;cliente00510@example.com;2023-09-25;Santos;SP;Sudeste;Pessoa Física;Orgânico
+511;Paulo Barbosa;cliente00511@example.com;2023-11-20;Brasília;DF;Centro-Oeste;Pessoa Física;Indicação
+512;Yasmin Souza;cliente00512@example.com;2023-02-09;Salvador;BA;Nordeste;Pessoa Física;Orgânico
+513;Isabela Vieira;cliente00513@example.com;2023-08-03;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+514;Ana Oliveira;cliente00514@example.com;2023-04-22;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+515;Beatriz Martins;cliente00515@example.com;2023-11-26;Niterói;RJ;Sudeste;MEI;Indicação
+516;Nicolas Lima;cliente00516@example.com;2023-11-25;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+517;Tatiana Gomes;;2022-09-05;Belo Horizonte;MG;Sudeste;Pessoa Física;Redes sociais
+518;Paulo Nascimento;cliente00518@example.com;2023-01-13;Santos;SP;Sudeste;Pessoa Física;Pago
+519;Vinicius Gomes;cliente00519@example.com;2022-08-31;Niterói;RJ;Sudeste;Pessoa Física;Redes sociais
+520;Henrique Rocha;cliente00520@example.com;2022-10-11;Campinas;SP;Sudeste;Pessoa Física;Indicação
+521;Karina Nascimento;cliente00521@example.com;2022-10-24;Curitiba;PR;Sul;Pessoa Física;Orgânico
+522;Yasmin Fernandes;cliente00522@example.com;2023-09-07;Brasília;DF;Centro-Oeste;Pessoa Física;Indicação
+523;Karina Santos;cliente00523@example.com;2024-03-17;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+524;João Fernandes;cliente00524@example.com;2023-11-09;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+525;Yasmin Dias;cliente00525@example.com;2023-05-20;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+526;João Nascimento;cliente00526@example.com;2023-02-16;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+527;Caio Teixeira;cliente00527@example.com;2023-07-14;Fortaleza;CE;Nordeste;Pessoa Física;Pago
+528;Paulo Souza;cliente00528@example.com;2022-11-08;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Orgânico
+529;Felipe Gomes;cliente00529@example.com;2023-09-21;Vitória;ES;Sudeste;Pessoa Física;Indicação
+530;Tatiana Vieira;cliente00530@example.com;2023-06-02;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+531;Yasmin Pereira;cliente00531@example.com;2024-01-08;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+532;Sérgio Pereira;cliente00532@example.com;2023-07-19;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+533;Lucas Nascimento;cliente00533@example.com;2022-08-27;Santos;SP;Sudeste;Pessoa Física;Orgânico
+534;Renata Oliveira;cliente00534@example.com;2022-12-31;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+535;Carla Lima;cliente00535@example.com;2023-11-08;Fortaleza;CE;Nordeste;Pessoa Física;Pago
+536;Mariana Nascimento;cliente00536@example.com;2023-07-17;Belo Horizonte;MG;Sudeste;Pessoa Física;Redes sociais
+537;Carla Souza;cliente00537@example.com;2023-04-14;Campo Grande;MS;Centro-Oeste;Pessoa Física;Indicação
+538;Carla Oliveira;cliente00538@example.com;2023-02-05;Belo Horizonte;MG;Sudeste;Pessoa Física;Redes sociais
+539;Renata Cardoso;cliente00539@example.com;2023-09-13;Porto Alegre;RS;Sul;Pessoa Física;Redes sociais
+540;Diego Silva;cliente00540@example.com;2023-09-30;Recife;PE;Nordeste;MEI;Indicação
+541;Bruno Santos;cliente00541@example.com;2023-11-30;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+542;Diego Nascimento;cliente00542@example.com;2023-05-17;Niterói;RJ;Sudeste;Pessoa Física;Redes sociais
+543;Diego Vieira;cliente00543@example.com;2023-06-29;São Paulo;SP;Sudeste;MEI;Pago
+544;Ana Vieira;cliente00544@example.com;2023-06-07;Belo Horizonte;MG;Sudeste;Pessoa Física;Indicação
+545;Isabela Nascimento;cliente00545@example.com;2023-09-04;Belo Horizonte;MG;Sudeste;Pessoa Física;Orgânico
+546;Ana Rocha;cliente00546@example.com;2024-01-24;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+547;João Dias;cliente00547@example.com;2023-06-07;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+548;Carla Souza;cliente00548@example.com;2023-06-10;Belém;PA;Norte;MEI;Redes sociais
+549;Yasmin Martins;cliente00549@example.com;2023-03-08;Natal;RN;Nordeste;MEI;Redes sociais
+550;Juliana Oliveira;cliente00550@example.com;2024-01-15;Campo Grande;MS;Centro-Oeste;Pessoa Física;Orgânico
+551;Henrique Oliveira;cliente00551@example.com;2022-11-28;São Paulo;SP;Sudeste;MEI;Indicação
+552;Diego Rocha;cliente00552@example.com;2022-09-12;Niterói;RJ;Sudeste;Pessoa Física;Indicação
+553;Paulo Rocha;cliente00553@example.com;2023-02-14;Recife;PE;Nordeste;Pessoa Física;Pago
+554;Isabela Nascimento;cliente00554@example.com;2023-09-04;Curitiba;PR;Sul;Pessoa Física;Pago
+555;Tatiana Martins;cliente00555@example.com;2024-03-01;Niterói;RJ;Sudeste;Pessoa Física;Redes sociais
+556;Henrique Ribeiro;cliente00556@example.com;2023-07-01;Salvador;BA;Nordeste;Pessoa Física;Pago
+557;Gabriela Gomes;cliente00557@example.com;2023-05-25;Londrina;PR;Sul;Pessoa Física;Indicação
+558;Tatiana Oliveira;cliente00558@example.com;2022-10-12;Salvador;BA;Nordeste;MEI;Indicação
+559;Paulo Gomes;cliente00559@example.com;2022-10-05;São Paulo;SP;Sudeste;Pessoa Física;Pago
+560;Mariana Gomes;cliente00560@example.com;2023-06-18;Vitória;ES;Sudeste;Pessoa Física;Indicação
+561;Mariana Cardoso;cliente00561@example.com;2022-10-25;Brasília;DF;Centro-Oeste;Pessoa Física;Indicação
+562;Carla Pereira;cliente00562@example.com;2023-09-25;Niterói;RJ;Sudeste;Pessoa Física;Pago
+563;Karina Oliveira;cliente00563@example.com;2022-12-26;Londrina;PR;Sul;Pessoa Física;Redes sociais
+564;Felipe Dias;;2023-04-30;Porto Alegre;RS;Sul;Pessoa Física;Redes sociais
+565;Juliana Dias;cliente00565@example.com;2023-12-14;Salvador;BA;Nordeste;Pessoa Física;Indicação
+566;Mariana Fernandes;cliente00566@example.com;2023-09-13;São Paulo;SP;Sudeste;Pessoa Física;Pago
+567;Vinicius Teixeira;cliente00567@example.com;2022-11-14;Salvador;BA;Nordeste;Pessoa Física;Indicação
+568;Carla Almeida;cliente00568@example.com;2024-01-02;Curitiba;PR;Sul;Pessoa Física;Indicação
+569;Tatiana Nascimento;cliente00569@example.com;2022-08-23;Salvador;BA;Nordeste;Pessoa Física;Indicação
+570;João Dias;cliente00570@example.com;2023-01-20;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+571;Felipe Nascimento;cliente00571@example.com;2022-12-08;Brasília;DF;Centro-Oeste;Pessoa Física;Indicação
+572;Caio Souza;cliente00572@example.com;2022-09-01;Brasília;DF;Centro-Oeste;Pessoa Física;Orgânico
+573;Karina Teixeira;cliente00573@example.com;2022-08-04;Cuiabá;MT;Centro-Oeste;Pessoa Física;Orgânico
+574;Vinicius Almeida;cliente00574@example.com;2023-01-16;Belém;PA;Norte;Pessoa Física;Redes sociais
+575;Diego Cardoso;cliente00575@example.com;2023-04-01;Uberlândia;MG;Sudeste;Pessoa Física;Indicação
+576;Vinicius Martins;cliente00576@example.com;2023-07-08;Campinas;SP;Sudeste;Pessoa Física;Redes sociais
+577;Felipe Almeida;cliente00577@example.com;2022-11-05;Brasília;DF;Centro-Oeste;Pessoa Física;Pago
+578;Olivia Nascimento;cliente00578@example.com;2023-11-30;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+579;Felipe Pereira;cliente00579@example.com;2022-09-14;Curitiba;PR;Sul;Pessoa Física;Indicação
+580;Gabriela Nascimento;cliente00580@example.com;2023-12-24;Salvador;BA;Nordeste;Pessoa Física;Redes sociais
+581;João Gomes;cliente00581@example.com;2022-09-01;Recife;PE;Nordeste;Pessoa Física;Redes sociais
+582;Henrique Martins;cliente00582@example.com;2023-01-30;Curitiba;PR;Sul;Pessoa Física;Orgânico
+583;Felipe Fernandes;cliente00583@example.com;2023-12-05;Florianópolis;SC;Sul;Pessoa Física;Redes sociais
+584;Sérgio Cardoso;cliente00584@example.com;2023-01-08;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+585;Felipe Cardoso;cliente00585@example.com;2023-10-17;Cuiabá;MT;Centro-Oeste;Pessoa Física;Indicação
+586;Tatiana Souza;cliente00586@example.com;2023-12-03;Santos;SP;Sudeste;Pessoa Física;Orgânico
+587;Bruno Dias;cliente00587@example.com;2023-11-20;Joinville;SC;Sul;Pessoa Física;Indicação
+588;Beatriz Santos;cliente00588@example.com;2023-09-15;Curitiba;PR;Sul;Pessoa Física;Orgânico
+589;João Almeida;cliente00589@example.com;2024-01-08;Porto Alegre;RS;Sul;Pessoa Física;Indicação
+590;Eduarda Nascimento;cliente00590@example.com;2022-10-12;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+591;Henrique Souza;cliente00591@example.com;2022-08-25;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Orgânico
+592;Ana Ribeiro;cliente00592@example.com;2023-11-28;Londrina;PR;Sul;Pessoa Física;Redes sociais
+593;Bruno Martins;cliente00593@example.com;2023-09-07;Salvador;BA;Nordeste;Pessoa Física;Pago
+594;João Martins;cliente00594@example.com;2022-12-05;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+595;Olivia Rocha;cliente00595@example.com;2023-07-07;Goiânia;GO;Centro-Oeste;Pessoa Física;Indicação
+596;Lucas Souza;cliente00596@example.com;2022-09-02;Curitiba;PR;Sul;Pessoa Física;Indicação
+597;Yasmin Fernandes;cliente00597@example.com;2023-11-25;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+598;Renata Lima;cliente00598@example.com;2023-03-12;Cuiabá;MT;Centro-Oeste;Pessoa Física;Pago
+599;João Fernandes;cliente00599@example.com;2023-03-23;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+600;Olivia Teixeira;cliente00600@example.com;2023-03-21;Porto Alegre;RS;Sul;Pessoa Física;Indicação
+601;Henrique Silva;cliente00601@example.com;2023-04-12;Campinas;SP;Sudeste;Pessoa Física;Pago
+602;João Barbosa;cliente00602@example.com;2023-05-19;Campo Grande;MS;Centro-Oeste;Pessoa Física;Redes sociais
+603;Isabela Dias;cliente00603@example.com;2022-11-01;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+604;Yasmin Pereira;cliente00604@example.com;2024-01-03;Salvador;BA;Nordeste;Pessoa Física;Indicação
+605;Diego Silva;cliente00605@example.com;2023-12-17;Belo Horizonte;MG;Sudeste;Pessoa Física;Indicação
+606;Felipe Pereira;cliente00606@example.com;2023-01-15;Niterói;RJ;Sudeste;Pessoa Física;Pago
+607;Juliana Silva;cliente00607@example.com;2022-09-01;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+608;João Vieira;cliente00608@example.com;2022-07-28;Florianópolis;SC;Sul;Pessoa Física;Redes sociais
+609;Felipe Ribeiro;cliente00609@example.com;2023-07-09;Recife;PE;Nordeste;Pessoa Física;Pago
+610;Nicolas Pereira;cliente00610@example.com;2023-10-23;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Orgânico
+611;Lucas Ribeiro;;2022-12-16;Vitória;ES;Sudeste;Pessoa Física;Redes sociais
+612;Isabela Gomes;cliente00612@example.com;2022-12-11;Brasília;DF;Centro-Oeste;Pessoa Física;Indicação
+613;Diego Ribeiro;cliente00613@example.com;2022-11-10;São Paulo;SP;Sudeste;Pessoa Física;Pago
+614;Paulo Silva;cliente00614@example.com;2023-06-22;Curitiba;PR;Sul;Pessoa Física;Redes sociais
+615;Vinicius Ribeiro;cliente00615@example.com;2022-08-24;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+616;Paulo Gomes;cliente00616@example.com;2022-11-28;Fortaleza;CE;Nordeste;Pessoa Física;Pago
+617;Caio Ribeiro;cliente00617@example.com;2023-07-31;Niterói;RJ;Sudeste;Pessoa Física;Pago
+618;Caio Ribeiro;cliente00618@example.com;2023-12-29;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+619;Tatiana Souza;cliente00619@example.com;2023-01-25;Vitória;ES;Sudeste;Pessoa Física;Redes sociais
+620;Lucas Ribeiro;cliente00620@example.com;2023-08-19;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+621;Nicolas Silva;cliente00621@example.com;2022-11-07;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+622;Ana Cardoso;cliente00622@example.com;2022-12-31;Recife;PE;Nordeste;MEI;Pago
+623;Juliana Lima;cliente00623@example.com;2023-03-05;Manaus;AM;Norte;Pessoa Física;Redes sociais
+624;Sérgio Silva;cliente00624@example.com;2023-02-25;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Orgânico
+625;Bruno Cardoso;cliente00625@example.com;2023-10-16;Curitiba;PR;Sul;Pessoa Física;Orgânico
+626;Juliana Dias;cliente00626@example.com;2023-12-11;Curitiba;PR;Sul;Pessoa Física;Pago
+627;Carla Pereira;cliente00627@example.com;2023-10-20;Santos;SP;Sudeste;Pessoa Física;Redes sociais
+628;Diego Souza;cliente00628@example.com;2023-03-31;Curitiba;PR;Sul;Pessoa Física;Orgânico
+629;Mariana Santos;cliente00629@example.com;2023-08-13;Campinas;SP;Sudeste;Pessoa Física;Indicação
+630;Karina Cardoso;cliente00630@example.com;2022-11-03;Cuiabá;MT;Centro-Oeste;Pessoa Física;Orgânico
+631;Eduarda Martins;cliente00631@example.com;2022-09-12;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+632;João Almeida;cliente00632@example.com;2023-12-21;Uberlândia;MG;Sudeste;Pessoa Física;Redes sociais
+633;Felipe Teixeira;cliente00633@example.com;2022-08-25;São Paulo;SP;Sudeste;Pessoa Física;Pago
+634;Gabriela Souza;cliente00634@example.com;2023-11-15;Campinas;SP;Sudeste;Pessoa Física;Redes sociais
+635;Ana Cardoso;cliente00635@example.com;2024-02-29;Campinas;SP;Sudeste;Pessoa Física;Indicação
+636;Paulo Rocha;cliente00636@example.com;2022-11-27;Niterói;RJ;Sudeste;Pessoa Física;Indicação
+637;Juliana Souza;cliente00637@example.com;2023-04-07;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+638;Lucas Silva;cliente00638@example.com;2023-05-16;Belo Horizonte;MG;Sudeste;Pessoa Física;Orgânico
+639;Gabriela Oliveira;cliente00639@example.com;2023-01-07;Florianópolis;SC;Sul;Pessoa Física;Pago
+640;Juliana Ribeiro;cliente00640@example.com;2023-11-30;Belo Horizonte;MG;Sudeste;Pessoa Física;Indicação
+641;Ana Silva;cliente00641@example.com;2022-11-17;Manaus;AM;Norte;Pessoa Física;Pago
+642;João Lima;cliente00642@example.com;2023-03-14;Brasília;DF;Centro-Oeste;Pessoa Física;Pago
+643;Paulo Barbosa;cliente00643@example.com;2023-02-18;Porto Alegre;RS;Sul;Pessoa Física;Pago
+644;Bruno Oliveira;cliente00644@example.com;2022-08-05;Uberlândia;MG;Sudeste;Pessoa Física;Redes sociais
+645;Caio Almeida;cliente00645@example.com;2022-09-22;Campinas;SP;Sudeste;Pessoa Física;Redes sociais
+646;Gabriela Silva;cliente00646@example.com;2022-11-01;Cuiabá;MT;Centro-Oeste;Pessoa Física;Indicação
+647;Gabriela Almeida;cliente00647@example.com;2023-11-10;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Orgânico
+648;Tatiana Gomes;cliente00648@example.com;2022-12-30;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+649;Gabriela Pereira;cliente00649@example.com;2024-01-25;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+650;Mariana Teixeira;cliente00650@example.com;2023-08-22;Santos;SP;Sudeste;Pessoa Física;Orgânico
+651;Yasmin Cardoso;cliente00651@example.com;2023-11-09;Porto Alegre;RS;Sul;MEI;Orgânico
+652;Ana Santos;cliente00652@example.com;2023-04-28;Brasília;DF;Centro-Oeste;MEI;Pago
+653;Sérgio Almeida;cliente00653@example.com;2023-02-12;Curitiba;PR;Sul;Pessoa Física;Orgânico
+654;Lucas Fernandes;cliente00654@example.com;2023-07-21;Natal;RN;Nordeste;Pessoa Física;Pago
+655;Diego Vieira;cliente00655@example.com;2022-08-31;São Paulo;SP;Sudeste;MEI;Redes sociais
+656;Henrique Souza;cliente00656@example.com;2024-03-04;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Redes sociais
+657;Nicolas Silva;cliente00657@example.com;2023-09-29;Porto Alegre;RS;Sul;Pessoa Física;Redes sociais
+658;Diego Souza;;2023-04-17;Joinville;SC;Sul;Pessoa Física;Indicação
+659;Paulo Souza;cliente00659@example.com;2023-06-04;Cuiabá;MT;Centro-Oeste;MEI;Indicação
+660;Lucas Dias;cliente00660@example.com;2023-01-18;São Paulo;SP;Sudeste;MEI;Indicação
+661;Nicolas Pereira;cliente00661@example.com;2023-09-30;Brasília;DF;Centro-Oeste;Pessoa Física;Indicação
+662;Eduarda Fernandes;cliente00662@example.com;2024-04-17;Londrina;PR;Sul;Pessoa Física;Redes sociais
+663;Eduarda Vieira;cliente00663@example.com;2023-08-11;Curitiba;PR;Sul;Pessoa Física;Orgânico
+664;Karina Martins;cliente00664@example.com;2023-07-28;Santos;SP;Sudeste;Pessoa Física;Orgânico
+665;Diego Cardoso;cliente00665@example.com;2022-12-03;Campinas;SP;Sudeste;Pessoa Física;Orgânico
+666;Olivia Lima;cliente00666@example.com;2023-03-25;Campo Grande;MS;Centro-Oeste;Pessoa Física;Orgânico
+667;Eduarda Almeida;cliente00667@example.com;2022-08-06;Curitiba;PR;Sul;Pessoa Física;Pago
+668;Eduarda Martins;cliente00668@example.com;2023-04-10;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+669;Isabela Barbosa;cliente00669@example.com;2022-10-26;Manaus;AM;Norte;Pessoa Física;Indicação
+670;Tatiana Souza;cliente00670@example.com;2023-09-23;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+671;Tatiana Gomes;cliente00671@example.com;2023-09-30;Porto Alegre;RS;Sul;Pessoa Física;Redes sociais
+672;Nicolas Silva;cliente00672@example.com;2023-03-26;Belo Horizonte;MG;Sudeste;Pessoa Física;Orgânico
+673;Mariana Nascimento;cliente00673@example.com;2022-10-14;Curitiba;PR;Sul;Pessoa Física;Redes sociais
+674;Vinicius Almeida;cliente00674@example.com;2023-10-28;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+675;Ana Teixeira;cliente00675@example.com;2023-04-15;Niterói;RJ;Sudeste;Pessoa Física;Orgânico
+676;Caio Pereira;cliente00676@example.com;2022-11-29;Campinas;SP;Sudeste;Pessoa Física;Pago
+677;Paulo Cardoso;cliente00677@example.com;2024-01-11;Natal;RN;Nordeste;Pessoa Física;Pago
+678;Felipe Almeida;cliente00678@example.com;2023-09-23;Recife;PE;Nordeste;MEI;Redes sociais
+679;Mariana Nascimento;cliente00679@example.com;2022-10-29;Joinville;SC;Sul;Pessoa Física;Orgânico
+680;Gabriela Oliveira;cliente00680@example.com;2022-12-11;Brasília;DF;Centro-Oeste;Pessoa Física;Orgânico
+681;Isabela Cardoso;cliente00681@example.com;2023-06-14;Recife;PE;Nordeste;Pessoa Física;Pago
+682;Paulo Pereira;cliente00682@example.com;2023-12-03;Brasília;DF;Centro-Oeste;Pessoa Física;Pago
+683;Juliana Oliveira;cliente00683@example.com;2023-04-15;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+684;Mariana Ribeiro;cliente00684@example.com;2023-01-26;Florianópolis;SC;Sul;Pessoa Física;Pago
+685;Lucas Cardoso;cliente00685@example.com;2023-09-21;Salvador;BA;Nordeste;Pessoa Física;Indicação
+686;Beatriz Teixeira;cliente00686@example.com;2023-09-30;Vitória;ES;Sudeste;Pessoa Física;Indicação
+687;Caio Santos;cliente00687@example.com;2023-08-12;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+688;Yasmin Barbosa;cliente00688@example.com;2024-01-04;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+689;Isabela Pereira;cliente00689@example.com;2023-11-24;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+690;Ana Pereira;cliente00690@example.com;2023-06-07;Santos;SP;Sudeste;Pessoa Física;Orgânico
+691;Juliana Lima;cliente00691@example.com;2023-12-02;Porto Alegre;RS;Sul;MEI;Pago
+692;Nicolas Rocha;cliente00692@example.com;2023-01-02;Porto Alegre;RS;Sul;Pessoa Física;Redes sociais
+693;Yasmin Martins;cliente00693@example.com;2023-10-07;Belo Horizonte;MG;Sudeste;Pessoa Física;Indicação
+694;Eduarda Dias;cliente00694@example.com;2023-01-09;Vitória;ES;Sudeste;MEI;Indicação
+695;João Nascimento;cliente00695@example.com;2023-06-08;Curitiba;PR;Sul;Pessoa Física;Redes sociais
+696;Vinicius Cardoso;cliente00696@example.com;2022-08-05;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+697;Nicolas Silva;cliente00697@example.com;2023-11-01;Curitiba;PR;Sul;Pessoa Física;Indicação
+698;Ana Souza;cliente00698@example.com;2023-12-10;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+699;Sérgio Martins;cliente00699@example.com;2023-11-20;Goiânia;GO;Centro-Oeste;Pessoa Física;Orgânico
+700;João Fernandes;cliente00700@example.com;2022-11-23;Santos;SP;Sudeste;Pessoa Física;Redes sociais
+701;Caio Oliveira;cliente00701@example.com;2022-10-12;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+702;Henrique Fernandes;cliente00702@example.com;2023-07-17;Uberlândia;MG;Sudeste;Pessoa Física;Indicação
+703;Paulo Teixeira;cliente00703@example.com;2024-01-03;Recife;PE;Nordeste;Pessoa Física;Pago
+704;Vinicius Silva;cliente00704@example.com;2022-10-02;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+705;Carla Ribeiro;;2022-11-17;São Paulo;SP;Sudeste;Pessoa Física;Pago
+706;Diego Oliveira;cliente00706@example.com;2023-01-26;Joinville;SC;Sul;Pessoa Física;Redes sociais
+707;Yasmin Gomes;cliente00707@example.com;2023-10-22;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+708;Yasmin Martins;cliente00708@example.com;2023-11-17;Goiânia;GO;Centro-Oeste;Pessoa Física;Pago
+709;Karina Vieira;cliente00709@example.com;2023-07-09;Salvador;BA;Nordeste;Pessoa Física;Indicação
+710;Carla Almeida;cliente00710@example.com;2023-04-28;Curitiba;PR;Sul;Pessoa Física;Indicação
+711;Beatriz Souza;cliente00711@example.com;2024-01-16;Brasília;DF;Centro-Oeste;Pessoa Física;Orgânico
+712;Tatiana Souza;cliente00712@example.com;2023-07-14;Joinville;SC;Sul;Pessoa Física;Pago
+713;Juliana Pereira;cliente00713@example.com;2023-02-28;Niterói;RJ;Sudeste;Pessoa Física;Redes sociais
+714;João Barbosa;cliente00714@example.com;2023-04-20;Manaus;AM;Norte;Pessoa Física;Redes sociais
+715;Tatiana Fernandes;cliente00715@example.com;2023-10-18;Porto Alegre;RS;Sul;Pessoa Física;Pago
+716;Felipe Dias;cliente00716@example.com;2022-11-02;Santos;SP;Sudeste;Pessoa Física;Indicação
+717;Henrique Dias;cliente00717@example.com;2022-11-10;Campinas;SP;Sudeste;Pessoa Física;Pago
+718;Carla Cardoso;cliente00718@example.com;2023-12-25;Salvador;BA;Nordeste;Pessoa Física;Redes sociais
+719;Yasmin Teixeira;cliente00719@example.com;2023-11-07;Natal;RN;Nordeste;Pessoa Física;Indicação
+720;Diego Lima;cliente00720@example.com;2023-12-15;Salvador;BA;Nordeste;Pessoa Física;Indicação
+721;Ana Ribeiro;cliente00721@example.com;2024-02-10;São Paulo;SP;Sudeste;Pessoa Física;Pago
+722;Karina Nascimento;cliente00722@example.com;2022-12-15;São Paulo;SP;Sudeste;Pessoa Física;Pago
+723;Karina Rocha;cliente00723@example.com;2023-04-20;Goiânia;GO;Centro-Oeste;MEI;Indicação
+724;Karina Nascimento;cliente00724@example.com;2022-12-20;Uberlândia;MG;Sudeste;Pessoa Física;Indicação
+725;Sérgio Vieira;cliente00725@example.com;2023-08-14;Salvador;BA;Nordeste;Pessoa Física;Orgânico
+726;Lucas Pereira;cliente00726@example.com;2023-05-26;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+727;Caio Lima;cliente00727@example.com;2023-03-27;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+728;Isabela Fernandes;cliente00728@example.com;2023-12-04;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+729;Diego Silva;cliente00729@example.com;2023-05-27;Joinville;SC;Sul;Pessoa Física;Redes sociais
+730;Diego Nascimento;cliente00730@example.com;2022-12-04;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Orgânico
+731;Vinicius Souza;cliente00731@example.com;2023-12-27;Santos;SP;Sudeste;Pessoa Física;Orgânico
+732;Nicolas Ribeiro;cliente00732@example.com;2022-10-23;São Paulo;SP;Sudeste;Pessoa Física;Pago
+733;Sérgio Barbosa;cliente00733@example.com;2023-04-30;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+734;Beatriz Oliveira;cliente00734@example.com;2023-07-28;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+735;Bruno Silva;cliente00735@example.com;2023-06-08;Brasília;DF;Centro-Oeste;Pessoa Física;Pago
+736;Isabela Teixeira;cliente00736@example.com;2023-12-12;Londrina;PR;Sul;MEI;Indicação
+737;Carla Gomes;cliente00737@example.com;2023-08-18;Brasília;DF;Centro-Oeste;Pessoa Física;Redes sociais
+738;Caio Teixeira;cliente00738@example.com;2022-11-28;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+739;Olivia Almeida;cliente00739@example.com;2023-07-31;Belém;PA;Norte;Pessoa Física;Redes sociais
+740;Beatriz Dias;cliente00740@example.com;2024-01-17;Campo Grande;MS;Centro-Oeste;Pessoa Física;Orgânico
+741;Diego Cardoso;cliente00741@example.com;2023-12-27;Cuiabá;MT;Centro-Oeste;Pessoa Física;Redes sociais
+742;Henrique Gomes;cliente00742@example.com;2022-08-17;São Paulo;SP;Sudeste;Pessoa Física;Pago
+743;Yasmin Martins;cliente00743@example.com;2023-03-26;Uberlândia;MG;Sudeste;MEI;Redes sociais
+744;Diego Souza;cliente00744@example.com;2022-11-13;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+745;Ana Barbosa;cliente00745@example.com;2022-12-16;Rio De Janeiro;RJ;Sudeste;MEI;Indicação
+746;Bruno Rocha;cliente00746@example.com;2024-02-22;Recife;PE;Nordeste;Pessoa Física;Orgânico
+747;Sérgio Souza;cliente00747@example.com;2023-09-14;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+748;Gabriela Nascimento;cliente00748@example.com;2023-12-26;Joinville;SC;Sul;Pessoa Física;Pago
+749;Nicolas Ribeiro;cliente00749@example.com;2023-04-16;Niterói;RJ;Sudeste;Pessoa Física;Orgânico
+750;Isabela Martins;cliente00750@example.com;2023-11-04;Rio De Janeiro;RJ;Sudeste;MEI;Redes sociais
+751;Gabriela Santos;cliente00751@example.com;2022-08-28;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+752;Olivia Gomes;;2024-02-03;Londrina;PR;Sul;MEI;Orgânico
+753;Olivia Ribeiro;cliente00753@example.com;2023-05-25;Fortaleza;CE;Nordeste;MEI;Orgânico
+754;Olivia Almeida;cliente00754@example.com;2022-07-24;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+755;Vinicius Vieira;cliente00755@example.com;2022-08-20;Natal;RN;Nordeste;Pessoa Física;Pago
+756;Lucas Gomes;cliente00756@example.com;2023-03-08;Porto Alegre;RS;Sul;Pessoa Física;Indicação
+757;Caio Nascimento;cliente00757@example.com;2022-10-11;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+758;Caio Gomes;cliente00758@example.com;2023-11-13;Londrina;PR;Sul;Pessoa Física;Indicação
+759;Carla Barbosa;cliente00759@example.com;2023-04-24;Natal;RN;Nordeste;Pessoa Física;Orgânico
+760;Caio Nascimento;cliente00760@example.com;2023-01-03;Campinas;SP;Sudeste;Pessoa Física;Pago
+761;Felipe Teixeira;cliente00761@example.com;2022-08-27;Salvador;BA;Nordeste;Pessoa Física;Pago
+762;Felipe Almeida;cliente00762@example.com;2022-12-24;Joinville;SC;Sul;Pessoa Física;Indicação
+763;Beatriz Barbosa;cliente00763@example.com;2022-12-04;Brasília;DF;Centro-Oeste;Pessoa Física;Redes sociais
+764;Beatriz Rocha;cliente00764@example.com;2023-07-14;Recife;PE;Nordeste;Pessoa Física;Orgânico
+765;Diego Teixeira;cliente00765@example.com;2023-03-17;Curitiba;PR;Sul;Pessoa Física;Orgânico
+766;Ana Dias;cliente00766@example.com;2023-08-31;Belo Horizonte;MG;Sudeste;Pessoa Física;Indicação
+767;Felipe Gomes;cliente00767@example.com;2023-08-19;Campo Grande;MS;Centro-Oeste;Pessoa Física;Redes sociais
+768;Lucas Dias;cliente00768@example.com;2023-06-24;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+769;Isabela Almeida;cliente00769@example.com;2022-12-26;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+770;Isabela Oliveira;cliente00770@example.com;2023-03-15;Joinville;SC;Sul;Pessoa Física;Orgânico
+771;Caio Almeida;cliente00771@example.com;2022-11-25;Goiânia;GO;Centro-Oeste;Pessoa Física;Orgânico
+772;Eduarda Martins;cliente00772@example.com;2023-10-02;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Redes sociais
+773;Tatiana Martins;cliente00773@example.com;2023-10-16;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+774;Olivia Pereira;cliente00774@example.com;2022-10-24;Londrina;PR;Sul;Pessoa Física;Pago
+775;Renata Souza;cliente00775@example.com;2022-09-16;Recife;PE;Nordeste;Pessoa Física;Redes sociais
+776;Eduarda Cardoso;cliente00776@example.com;2023-03-05;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+777;Vinicius Martins;cliente00777@example.com;2023-11-25;Campo Grande;MS;Centro-Oeste;Pessoa Física;Orgânico
+778;João Almeida;cliente00778@example.com;2023-07-02;Uberlândia;MG;Sudeste;Pessoa Física;Orgânico
+779;Carla Lima;cliente00779@example.com;2023-11-18;Porto Alegre;RS;Sul;Pessoa Física;Pago
+780;Juliana Ribeiro;cliente00780@example.com;2022-12-26;Recife;PE;Nordeste;Pessoa Física;Redes sociais
+781;Mariana Dias;cliente00781@example.com;2022-12-25;Uberlândia;MG;Sudeste;Pessoa Física;Indicação
+782;Beatriz Almeida;cliente00782@example.com;2023-02-22;Santos;SP;Sudeste;Pessoa Física;Pago
+783;Mariana Pereira;cliente00783@example.com;2024-04-11;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+784;João Lima;cliente00784@example.com;2023-12-27;Vitória;ES;Sudeste;Pessoa Física;Indicação
+785;Sérgio Fernandes;cliente00785@example.com;2022-12-08;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+786;Beatriz Lima;cliente00786@example.com;2022-10-06;Niterói;RJ;Sudeste;Pessoa Física;Pago
+787;Juliana Martins;cliente00787@example.com;2023-06-17;Salvador;BA;Nordeste;Pessoa Física;Indicação
+788;Bruno Martins;cliente00788@example.com;2022-08-17;Salvador;BA;Nordeste;Pessoa Física;Redes sociais
+789;Gabriela Santos;cliente00789@example.com;2023-07-26;São Paulo;SP;Sudeste;Pessoa Física;Pago
+790;Caio Teixeira;cliente00790@example.com;2024-01-08;Joinville;SC;Sul;Pessoa Física;Redes sociais
+791;Felipe Ribeiro;cliente00791@example.com;2023-12-31;Campinas;SP;Sudeste;Pessoa Física;Orgânico
+792;Isabela Barbosa;cliente00792@example.com;2023-09-20;Manaus;AM;Norte;Pessoa Física;Pago
+793;João Pereira;cliente00793@example.com;2023-04-01;Belo Horizonte;MG;Sudeste;Pessoa Física;Redes sociais
+794;Isabela Almeida;cliente00794@example.com;2024-01-17;Vitória;ES;Sudeste;MEI;Orgânico
+795;Renata Souza;cliente00795@example.com;2023-08-29;Florianópolis;SC;Sul;Pessoa Física;Pago
+796;Diego Barbosa;cliente00796@example.com;2023-01-21;Brasília;DF;Centro-Oeste;MEI;Redes sociais
+797;Isabela Barbosa;cliente00797@example.com;2024-04-24;Campinas;SP;Sudeste;MEI;Pago
+798;Renata Ribeiro;cliente00798@example.com;2023-03-01;São Paulo;SP;Sudeste;Pessoa Física;Pago
+799;Juliana Teixeira;;2023-09-01;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+800;Carla Fernandes;cliente00800@example.com;2024-03-31;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+801;Isabela Rocha;cliente00801@example.com;2023-08-25;Porto Alegre;RS;Sul;Pessoa Física;Pago
+802;Sérgio Santos;cliente00802@example.com;2024-02-18;Recife;PE;Nordeste;Pessoa Física;Indicação
+803;Caio Lima;cliente00803@example.com;2024-01-18;Belo Horizonte;MG;Sudeste;Pessoa Física;Redes sociais
+804;Olivia Martins;cliente00804@example.com;2023-08-19;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+805;Olivia Oliveira;cliente00805@example.com;2024-03-15;Florianópolis;SC;Sul;Pessoa Física;Orgânico
+806;Paulo Pereira;cliente00806@example.com;2023-07-12;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+807;Tatiana Dias;cliente00807@example.com;2024-01-09;Joinville;SC;Sul;Pessoa Física;Indicação
+808;Lucas Rocha;cliente00808@example.com;2023-03-12;São Paulo;SP;Sudeste;Pessoa Física;Pago
+809;Bruno Cardoso;cliente00809@example.com;2023-05-04;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+810;João Dias;cliente00810@example.com;2023-08-31;Belo Horizonte;MG;Sudeste;Pessoa Física;Orgânico
+811;Felipe Pereira;cliente00811@example.com;2022-10-05;São Paulo;SP;Sudeste;Pessoa Física;Pago
+812;Lucas Cardoso;cliente00812@example.com;2022-12-11;Belo Horizonte;MG;Sudeste;Pessoa Física;Pago
+813;Gabriela Santos;cliente00813@example.com;2024-03-10;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+814;Felipe Barbosa;cliente00814@example.com;2023-04-07;Belo Horizonte;MG;Sudeste;Pessoa Física;Pago
+815;Yasmin Teixeira;cliente00815@example.com;2024-01-19;Campinas;SP;Sudeste;Pessoa Física;Redes sociais
+816;Eduarda Lima;cliente00816@example.com;2023-03-21;Uberlândia;MG;Sudeste;Pessoa Física;Indicação
+817;Carla Oliveira;cliente00817@example.com;2023-10-03;Campinas;SP;Sudeste;Pessoa Física;Orgânico
+818;Lucas Teixeira;cliente00818@example.com;2023-10-04;Curitiba;PR;Sul;Pessoa Física;Redes sociais
+819;Nicolas Rocha;cliente00819@example.com;2022-12-24;Campinas;SP;Sudeste;Pessoa Física;Orgânico
+820;Paulo Barbosa;cliente00820@example.com;2022-11-18;Rio De Janeiro;RJ;Sudeste;MEI;Orgânico
+821;Renata Martins;cliente00821@example.com;2022-08-19;Niterói;RJ;Sudeste;Pessoa Física;Redes sociais
+822;Yasmin Barbosa;cliente00822@example.com;2022-12-10;Cuiabá;MT;Centro-Oeste;Pessoa Física;Redes sociais
+823;Caio Gomes;cliente00823@example.com;2022-12-18;Brasília;DF;Centro-Oeste;Pessoa Física;Orgânico
+824;João Teixeira;cliente00824@example.com;2022-12-26;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Redes sociais
+825;Isabela Ribeiro;cliente00825@example.com;2023-11-17;Brasília;DF;Centro-Oeste;Pessoa Física;Indicação
+826;Eduarda Pereira;cliente00826@example.com;2023-04-14;Curitiba;PR;Sul;Pessoa Física;Pago
+827;Diego Pereira;cliente00827@example.com;2023-03-09;São Paulo;SP;Sudeste;MEI;Pago
+828;Ana Pereira;cliente00828@example.com;2022-12-16;Porto Alegre;RS;Sul;Pessoa Física;Pago
+829;Felipe Almeida;cliente00829@example.com;2023-02-21;Salvador;BA;Nordeste;Pessoa Física;Redes sociais
+830;Eduarda Almeida;cliente00830@example.com;2024-02-13;Curitiba;PR;Sul;Pessoa Física;Pago
+831;Paulo Silva;cliente00831@example.com;2022-11-14;Campinas;SP;Sudeste;Pessoa Física;Redes sociais
+832;Paulo Dias;cliente00832@example.com;2023-03-23;Brasília;DF;Centro-Oeste;Pessoa Física;Redes sociais
+833;Gabriela Martins;cliente00833@example.com;2024-01-29;Goiânia;GO;Centro-Oeste;Pessoa Física;Redes sociais
+834;Yasmin Nascimento;cliente00834@example.com;2023-12-05;Salvador;BA;Nordeste;Pessoa Física;Redes sociais
+835;Tatiana Lima;cliente00835@example.com;2022-09-07;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+836;Diego Silva;cliente00836@example.com;2022-12-10;Brasília;DF;Centro-Oeste;Pessoa Física;Orgânico
+837;Mariana Ribeiro;cliente00837@example.com;2023-11-07;São Paulo;SP;Sudeste;Pessoa Física;Pago
+838;Sérgio Teixeira;cliente00838@example.com;2024-01-27;Campinas;SP;Sudeste;Pessoa Física;Redes sociais
+839;Isabela Lima;cliente00839@example.com;2023-08-28;Caxias Do Sul;RS;Sul;MEI;Pago
+840;Sérgio Martins;cliente00840@example.com;2023-07-08;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Orgânico
+841;Paulo Santos;cliente00841@example.com;2022-10-04;Porto Alegre;RS;Sul;Pessoa Física;Pago
+842;Diego Ribeiro;cliente00842@example.com;2023-04-09;Belo Horizonte;MG;Sudeste;Pessoa Física;Orgânico
+843;Yasmin Vieira;cliente00843@example.com;2023-04-01;Fortaleza;CE;Nordeste;Pessoa Física;Redes sociais
+844;João Gomes;cliente00844@example.com;2023-11-07;Santos;SP;Sudeste;Pessoa Física;Redes sociais
+845;Caio Nascimento;cliente00845@example.com;2023-10-16;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+846;Henrique Silva;;2023-03-01;Campo Grande;MS;Centro-Oeste;Pessoa Física;Orgânico
+847;Beatriz Barbosa;cliente00847@example.com;2024-02-26;Belo Horizonte;MG;Sudeste;Pessoa Física;Indicação
+848;Sérgio Ribeiro;cliente00848@example.com;2023-07-17;Santos;SP;Sudeste;Pessoa Física;Pago
+849;João Martins;cliente00849@example.com;2022-11-08;Curitiba;PR;Sul;Pessoa Física;Orgânico
+850;Yasmin Martins;cliente00850@example.com;2023-10-05;Niterói;RJ;Sudeste;Pessoa Física;Redes sociais
+851;Caio Nascimento;cliente00851@example.com;2023-03-30;Joinville;SC;Sul;Pessoa Física;Pago
+852;Renata Santos;cliente00852@example.com;2024-01-12;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Redes sociais
+853;Henrique Dias;cliente00853@example.com;2023-02-21;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Redes sociais
+854;João Souza;cliente00854@example.com;2023-12-13;Belo Horizonte;MG;Sudeste;MEI;Indicação
+855;Karina Ribeiro;cliente00855@example.com;2023-05-14;Brasília;DF;Centro-Oeste;Pessoa Física;Indicação
+856;Mariana Barbosa;cliente00856@example.com;2023-07-10;Caxias Do Sul;RS;Sul;MEI;Orgânico
+857;Olivia Nascimento;cliente00857@example.com;2022-07-26;São Paulo;SP;Sudeste;Pessoa Física;Pago
+858;Eduarda Silva;cliente00858@example.com;2022-10-12;São Paulo;SP;Sudeste;Pessoa Física;Pago
+859;Renata Cardoso;cliente00859@example.com;2023-10-06;Uberlândia;MG;Sudeste;Pessoa Física;Redes sociais
+860;Diego Nascimento;cliente00860@example.com;2022-09-20;Goiânia;GO;Centro-Oeste;Pessoa Física;Redes sociais
+861;Nicolas Martins;cliente00861@example.com;2023-11-09;Curitiba;PR;Sul;Pessoa Física;Indicação
+862;Lucas Martins;cliente00862@example.com;2022-12-09;Uberlândia;MG;Sudeste;Pessoa Física;Pago
+863;Felipe Gomes;cliente00863@example.com;2023-07-12;São Paulo;SP;Sudeste;Pessoa Física;Pago
+864;Felipe Gomes;cliente00864@example.com;2023-12-02;Goiânia;GO;Centro-Oeste;Pessoa Física;Redes sociais
+865;Carla Silva;cliente00865@example.com;2023-09-07;Salvador;BA;Nordeste;Pessoa Física;Redes sociais
+866;Vinicius Silva;cliente00866@example.com;2023-02-10;São Paulo;SP;Sudeste;Pessoa Física;Pago
+867;Henrique Fernandes;cliente00867@example.com;2023-05-15;São Paulo;SP;Sudeste;Pessoa Física;Pago
+868;Diego Ribeiro;cliente00868@example.com;2022-10-06;Londrina;PR;Sul;MEI;Orgânico
+869;Juliana Oliveira;cliente00869@example.com;2023-08-15;Londrina;PR;Sul;MEI;Redes sociais
+870;Vinicius Almeida;cliente00870@example.com;2023-03-19;Belo Horizonte;MG;Sudeste;Pessoa Física;Orgânico
+871;João Almeida;cliente00871@example.com;2023-02-26;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+872;Juliana Almeida;cliente00872@example.com;2024-01-05;Belém;PA;Norte;Pessoa Física;Orgânico
+873;Vinicius Teixeira;cliente00873@example.com;2023-12-14;Uberlândia;MG;Sudeste;Pessoa Física;Redes sociais
+874;João Souza;cliente00874@example.com;2023-03-24;Curitiba;PR;Sul;Pessoa Física;Indicação
+875;Ana Silva;cliente00875@example.com;2022-10-26;Porto Alegre;RS;Sul;Pessoa Física;Indicação
+876;Karina Barbosa;cliente00876@example.com;2023-09-03;Belo Horizonte;MG;Sudeste;MEI;Indicação
+877;Carla Nascimento;cliente00877@example.com;2023-07-20;Joinville;SC;Sul;Pessoa Física;Indicação
+878;Sérgio Ribeiro;cliente00878@example.com;2022-11-17;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+879;Lucas Oliveira;cliente00879@example.com;2023-11-25;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+880;Juliana Silva;cliente00880@example.com;2023-08-16;Brasília;DF;Centro-Oeste;Pessoa Física;Indicação
+881;Beatriz Pereira;cliente00881@example.com;2024-02-15;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+882;Carla Oliveira;cliente00882@example.com;2024-02-14;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+883;Diego Gomes;cliente00883@example.com;2023-07-26;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Orgânico
+884;Caio Fernandes;cliente00884@example.com;2023-02-02;Uberlândia;MG;Sudeste;Pessoa Física;Redes sociais
+885;Lucas Barbosa;cliente00885@example.com;2023-04-24;Campinas;SP;Sudeste;Pessoa Física;Orgânico
+886;Karina Nascimento;cliente00886@example.com;2022-12-05;Belo Horizonte;MG;Sudeste;Pessoa Física;Indicação
+887;Ana Lima;cliente00887@example.com;2022-07-09;Curitiba;PR;Sul;Pessoa Física;Orgânico
+888;Yasmin Dias;cliente00888@example.com;2023-04-07;Santos;SP;Sudeste;Pessoa Física;Pago
+889;Juliana Santos;cliente00889@example.com;2022-12-10;Belo Horizonte;MG;Sudeste;Pessoa Física;Orgânico
+890;Beatriz Fernandes;cliente00890@example.com;2023-09-28;São Paulo;SP;Sudeste;Pessoa Física;Pago
+891;Tatiana Almeida;cliente00891@example.com;2023-12-03;Belo Horizonte;MG;Sudeste;Pessoa Física;Orgânico
+892;Tatiana Martins;cliente00892@example.com;2023-02-27;Niterói;RJ;Sudeste;MEI;Orgânico
+893;Henrique Nascimento;;2023-01-01;Campinas;SP;Sudeste;Pessoa Física;Indicação
+894;Sérgio Gomes;cliente00894@example.com;2023-12-30;Londrina;PR;Sul;Pessoa Física;Redes sociais
+895;Carla Fernandes;cliente00895@example.com;2022-10-06;São Paulo;SP;Sudeste;MEI;Orgânico
+896;Diego Oliveira;cliente00896@example.com;2023-06-25;Campinas;SP;Sudeste;Pessoa Física;Indicação
+897;Felipe Ribeiro;cliente00897@example.com;2022-10-06;Belo Horizonte;MG;Sudeste;Pessoa Física;Redes sociais
+898;Olivia Dias;cliente00898@example.com;2023-09-16;Goiânia;GO;Centro-Oeste;Pessoa Física;Pago
+899;Karina Nascimento;cliente00899@example.com;2023-10-11;Brasília;DF;Centro-Oeste;MEI;Indicação
+900;Paulo Dias;cliente00900@example.com;2023-03-17;São Paulo;SP;Sudeste;Pessoa Física;Pago
+901;Carla Gomes;cliente00901@example.com;2023-12-03;Campo Grande;MS;Centro-Oeste;Pessoa Física;Orgânico
+902;Isabela Dias;cliente00902@example.com;2023-10-12;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Redes sociais
+903;Felipe Lima;cliente00903@example.com;2022-12-01;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+904;Diego Fernandes;cliente00904@example.com;2023-10-16;Campo Grande;MS;Centro-Oeste;Pessoa Física;Pago
+905;Nicolas Dias;cliente00905@example.com;2022-11-02;Joinville;SC;Sul;Pessoa Física;Orgânico
+906;Eduarda Vieira;cliente00906@example.com;2022-10-29;Cuiabá;MT;Centro-Oeste;Pessoa Física;Pago
+907;Beatriz Nascimento;cliente00907@example.com;2023-11-24;Niterói;RJ;Sudeste;Pessoa Física;Indicação
+908;Paulo Santos;cliente00908@example.com;2023-03-16;Santos;SP;Sudeste;Pessoa Física;Orgânico
+909;Felipe Almeida;cliente00909@example.com;2023-12-22;Manaus;AM;Norte;Pessoa Física;Indicação
+910;Mariana Oliveira;cliente00910@example.com;2023-11-05;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+911;Eduarda Ribeiro;cliente00911@example.com;2022-11-23;Florianópolis;SC;Sul;Pessoa Física;Redes sociais
+912;Sérgio Vieira;cliente00912@example.com;2023-09-07;Salvador;BA;Nordeste;Pessoa Física;Redes sociais
+913;Mariana Almeida;cliente00913@example.com;2022-07-11;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+914;Henrique Vieira;cliente00914@example.com;2023-02-22;Campinas;SP;Sudeste;Pessoa Física;Redes sociais
+915;Ana Rocha;cliente00915@example.com;2023-02-06;São Paulo;SP;Sudeste;Pessoa Física;Pago
+916;Yasmin Oliveira;cliente00916@example.com;2023-06-22;Curitiba;PR;Sul;Pessoa Física;Redes sociais
+917;João Pereira;cliente00917@example.com;2023-11-23;Vitória;ES;Sudeste;Pessoa Física;Indicação
+918;Paulo Teixeira;cliente00918@example.com;2022-12-27;Porto Alegre;RS;Sul;Pessoa Física;Pago
+919;Felipe Dias;cliente00919@example.com;2023-03-28;Porto Alegre;RS;Sul;MEI;Indicação
+920;Bruno Rocha;cliente00920@example.com;2022-10-12;Porto Alegre;RS;Sul;Pessoa Física;Redes sociais
+921;Karina Dias;cliente00921@example.com;2023-09-06;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+922;Henrique Fernandes;cliente00922@example.com;2023-03-20;Florianópolis;SC;Sul;Pessoa Física;Indicação
+923;Lucas Ribeiro;cliente00923@example.com;2023-12-23;Campinas;SP;Sudeste;Pessoa Física;Indicação
+924;Olivia Fernandes;cliente00924@example.com;2023-01-09;Curitiba;PR;Sul;Pessoa Física;Pago
+925;Felipe Vieira;cliente00925@example.com;2022-10-27;Brasília;DF;Centro-Oeste;Pessoa Física;Orgânico
+926;Karina Barbosa;cliente00926@example.com;2023-12-24;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+927;Diego Souza;cliente00927@example.com;2022-12-20;Natal;RN;Nordeste;Pessoa Física;Redes sociais
+928;Paulo Ribeiro;cliente00928@example.com;2023-01-20;Brasília;DF;Centro-Oeste;Pessoa Física;Orgânico
+929;Olivia Almeida;cliente00929@example.com;2022-09-15;Salvador;BA;Nordeste;Pessoa Física;Indicação
+930;Gabriela Gomes;cliente00930@example.com;2023-05-25;Natal;RN;Nordeste;Pessoa Física;Orgânico
+931;Henrique Gomes;cliente00931@example.com;2023-02-05;Belém;PA;Norte;Pessoa Física;Orgânico
+932;Sérgio Oliveira;cliente00932@example.com;2023-04-24;Campo Grande;MS;Centro-Oeste;Pessoa Física;Orgânico
+933;Karina Nascimento;cliente00933@example.com;2024-03-10;Belo Horizonte;MG;Sudeste;Pessoa Física;Redes sociais
+934;Yasmin Souza;cliente00934@example.com;2023-05-08;Curitiba;PR;Sul;Pessoa Física;Indicação
+935;João Pereira;cliente00935@example.com;2023-03-03;Salvador;BA;Nordeste;MEI;Pago
+936;Isabela Silva;cliente00936@example.com;2023-07-01;Vitória;ES;Sudeste;Pessoa Física;Indicação
+937;Eduarda Vieira;cliente00937@example.com;2023-11-26;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+938;Diego Cardoso;cliente00938@example.com;2023-03-19;Niterói;RJ;Sudeste;Pessoa Física;Orgânico
+939;Caio Oliveira;cliente00939@example.com;2023-08-28;Campinas;SP;Sudeste;Pessoa Física;Indicação
+940;Mariana Fernandes;;2022-10-26;Cuiabá;MT;Centro-Oeste;MEI;Pago
+941;Karina Teixeira;cliente00941@example.com;2023-01-22;Salvador;BA;Nordeste;MEI;Indicação
+942;Yasmin Ribeiro;cliente00942@example.com;2023-04-06;Fortaleza;CE;Nordeste;Pessoa Física;Orgânico
+943;Beatriz Lima;cliente00943@example.com;2023-12-09;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+944;Eduarda Cardoso;cliente00944@example.com;2023-05-12;São Paulo;SP;Sudeste;Pessoa Física;Pago
+945;Vinicius Silva;cliente00945@example.com;2023-03-18;Recife;PE;Nordeste;Pessoa Física;Pago
+946;Eduarda Cardoso;cliente00946@example.com;2023-02-28;Belo Horizonte;MG;Sudeste;Pessoa Física;Pago
+947;Henrique Nascimento;cliente00947@example.com;2023-05-09;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+948;Juliana Fernandes;cliente00948@example.com;2022-11-11;Belo Horizonte;MG;Sudeste;Pessoa Física;Orgânico
+949;Sérgio Silva;cliente00949@example.com;2024-01-06;Salvador;BA;Nordeste;Pessoa Física;Indicação
+950;Henrique Gomes;cliente00950@example.com;2023-12-13;Goiânia;GO;Centro-Oeste;Pessoa Física;Pago
+951;Ana Rocha;cliente00951@example.com;2023-12-04;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+952;Olivia Vieira;cliente00952@example.com;2024-01-17;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+953;Gabriela Ribeiro;cliente00953@example.com;2022-12-01;Manaus;AM;Norte;Pessoa Física;Orgânico
+954;Carla Silva;cliente00954@example.com;2022-11-01;São Paulo;SP;Sudeste;MEI;Pago
+955;Gabriela Vieira;cliente00955@example.com;2022-10-09;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+956;Tatiana Barbosa;cliente00956@example.com;2023-12-30;Recife;PE;Nordeste;Pessoa Física;Orgânico
+957;Yasmin Barbosa;cliente00957@example.com;2024-02-10;Belo Horizonte;MG;Sudeste;MEI;Indicação
+958;Eduarda Gomes;cliente00958@example.com;2023-12-28;Caxias Do Sul;RS;Sul;Pessoa Física;Indicação
+959;Renata Martins;cliente00959@example.com;2023-10-27;Caxias Do Sul;RS;Sul;Pessoa Física;Pago
+960;Caio Oliveira;cliente00960@example.com;2023-01-30;Belo Horizonte;MG;Sudeste;Pessoa Física;Indicação
+961;Mariana Oliveira;cliente00961@example.com;2023-05-02;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+962;Bruno Silva;cliente00962@example.com;2022-09-07;Campinas;SP;Sudeste;Pessoa Física;Orgânico
+963;Karina Ribeiro;cliente00963@example.com;2023-06-12;Fortaleza;CE;Nordeste;Pessoa Física;Orgânico
+964;João Vieira;cliente00964@example.com;2023-03-22;Curitiba;PR;Sul;Pessoa Física;Indicação
+965;Vinicius Dias;cliente00965@example.com;2023-03-05;Joinville;SC;Sul;Pessoa Física;Indicação
+966;Paulo Silva;cliente00966@example.com;2023-11-03;Campinas;SP;Sudeste;Pessoa Física;Redes sociais
+967;Tatiana Pereira;cliente00967@example.com;2023-08-17;Belém;PA;Norte;Pessoa Física;Redes sociais
+968;João Cardoso;cliente00968@example.com;2022-11-23;Santos;SP;Sudeste;Pessoa Física;Pago
+969;Lucas Silva;cliente00969@example.com;2022-12-05;Curitiba;PR;Sul;Pessoa Física;Indicação
+970;Caio Souza;cliente00970@example.com;2022-09-06;Brasília;DF;Centro-Oeste;Pessoa Física;Orgânico
+971;Renata Silva;cliente00971@example.com;2023-09-25;Londrina;PR;Sul;Pessoa Física;Pago
+972;Eduarda Rocha;cliente00972@example.com;2023-01-10;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+973;Vinicius Nascimento;cliente00973@example.com;2023-01-21;Curitiba;PR;Sul;Pessoa Física;Pago
+974;Yasmin Almeida;cliente00974@example.com;2022-12-16;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Redes sociais
+975;Renata Nascimento;cliente00975@example.com;2023-01-24;Joinville;SC;Sul;Pessoa Física;Pago
+976;João Vieira;cliente00976@example.com;2023-03-23;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Redes sociais
+977;Olivia Gomes;cliente00977@example.com;2023-09-12;Porto Alegre;RS;Sul;Pessoa Física;Redes sociais
+978;Felipe Pereira;cliente00978@example.com;2023-02-11;Uberlândia;MG;Sudeste;Pessoa Física;Pago
+979;Sérgio Nascimento;cliente00979@example.com;2023-09-15;São Paulo;SP;Sudeste;Pessoa Física;Pago
+980;Yasmin Dias;cliente00980@example.com;2023-09-03;Florianópolis;SC;Sul;Pessoa Física;Redes sociais
+981;Tatiana Barbosa;cliente00981@example.com;2023-01-11;Santos;SP;Sudeste;Pessoa Física;Pago
+982;Mariana Santos;cliente00982@example.com;2022-08-16;Goiânia;GO;Centro-Oeste;Pessoa Física;Redes sociais
+983;Carla Martins;cliente00983@example.com;2023-04-12;Uberlândia;MG;Sudeste;Pessoa Física;Redes sociais
+984;Diego Lima;cliente00984@example.com;2023-07-05;Rio De Janeiro;RJ;Sudeste;MEI;Pago
+985;Tatiana Barbosa;cliente00985@example.com;2023-04-26;Brasília;DF;Centro-Oeste;Pessoa Física;Pago
+986;Eduarda Dias;cliente00986@example.com;2022-11-06;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Orgânico
+987;Lucas Oliveira;;2023-02-18;Belo Horizonte;MG;Sudeste;Pessoa Física;Indicação
+988;Lucas Barbosa;cliente00988@example.com;2023-09-30;São Paulo;SP;Sudeste;MEI;Redes sociais
+989;Renata Fernandes;cliente00989@example.com;2022-10-07;Porto Alegre;RS;Sul;MEI;Indicação
+990;Mariana Ribeiro;cliente00990@example.com;2023-02-13;São Paulo;SP;Sudeste;Pessoa Física;Pago
+991;Ana Barbosa;cliente00991@example.com;2023-04-07;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+992;João Ribeiro;cliente00992@example.com;2023-11-01;Porto Alegre;RS;Sul;Pessoa Física;Pago
+993;Tatiana Almeida;cliente00993@example.com;2023-07-28;Brasília;DF;Centro-Oeste;Pessoa Física;Orgânico
+994;Karina Barbosa;cliente00994@example.com;2023-01-09;Londrina;PR;Sul;Pessoa Física;Orgânico
+995;Beatriz Dias;cliente00995@example.com;2023-05-02;Belo Horizonte;MG;Sudeste;Pessoa Física;Redes sociais
+996;Juliana Pereira;cliente00996@example.com;2024-01-02;Campinas;SP;Sudeste;Pessoa Física;Pago
+997;Diego Almeida;cliente00997@example.com;2023-06-27;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+998;Gabriela Fernandes;cliente00998@example.com;2023-05-05;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Redes sociais
+999;Mariana Ribeiro;cliente00999@example.com;2022-12-21;Belo Horizonte;MG;Sudeste;Pessoa Física;Orgânico
+1000;João Cardoso;cliente01000@example.com;2023-06-22;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+1001;Beatriz Gomes;cliente01001@example.com;2023-06-18;São Paulo;SP;Sudeste;Pessoa Física;Pago
+1002;Carla Silva;cliente01002@example.com;2022-11-09;Manaus;AM;Norte;Pessoa Física;Pago
+1003;Ana Santos;cliente01003@example.com;2023-01-29;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+1004;Ana Rocha;cliente01004@example.com;2022-10-28;Manaus;AM;Norte;Pessoa Física;Pago
+1005;Gabriela Dias;cliente01005@example.com;2022-10-30;Porto Alegre;RS;Sul;Pessoa Física;Redes sociais
+1006;João Lima;cliente01006@example.com;2023-03-18;Curitiba;PR;Sul;MEI;Redes sociais
+1007;Sérgio Vieira;cliente01007@example.com;2023-05-10;Cuiabá;MT;Centro-Oeste;Pessoa Física;Pago
+1008;Ana Cardoso;cliente01008@example.com;2022-10-15;Campinas;SP;Sudeste;Pessoa Física;Pago
+1009;Felipe Pereira;cliente01009@example.com;2023-12-25;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+1010;Yasmin Silva;cliente01010@example.com;2024-02-09;Porto Alegre;RS;Sul;Pessoa Física;Indicação
+1011;Juliana Silva;cliente01011@example.com;2023-07-10;Porto Alegre;RS;Sul;Pessoa Física;Indicação
+1012;Lucas Fernandes;cliente01012@example.com;2023-04-15;Londrina;PR;Sul;Pessoa Física;Orgânico
+1013;Renata Barbosa;cliente01013@example.com;2022-10-11;Campinas;SP;Sudeste;Pessoa Física;Redes sociais
+1014;Vinicius Gomes;cliente01014@example.com;2024-03-06;Natal;RN;Nordeste;Pessoa Física;Redes sociais
+1015;Eduarda Martins;cliente01015@example.com;2022-08-14;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Redes sociais
+1016;Carla Lima;cliente01016@example.com;2022-11-29;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+1017;Felipe Gomes;cliente01017@example.com;2023-02-04;Belo Horizonte;MG;Sudeste;Pessoa Física;Orgânico
+1018;Beatriz Vieira;cliente01018@example.com;2023-06-26;Niterói;RJ;Sudeste;Pessoa Física;Orgânico
+1019;Mariana Fernandes;cliente01019@example.com;2023-08-15;Curitiba;PR;Sul;Pessoa Física;Redes sociais
+1020;Yasmin Santos;cliente01020@example.com;2022-11-04;Curitiba;PR;Sul;Pessoa Física;Indicação
+1021;Isabela Martins;cliente01021@example.com;2023-01-14;Vitória;ES;Sudeste;Pessoa Física;Redes sociais
+1022;Vinicius Lima;cliente01022@example.com;2023-04-06;Belo Horizonte;MG;Sudeste;Pessoa Física;Redes sociais
+1023;Carla Fernandes;cliente01023@example.com;2023-04-11;Curitiba;PR;Sul;Pessoa Física;Orgânico
+1024;Felipe Ribeiro;cliente01024@example.com;2022-11-21;Fortaleza;CE;Nordeste;Pessoa Física;Orgânico
+1025;Carla Vieira;cliente01025@example.com;2024-02-04;Vitória;ES;Sudeste;Pessoa Física;Redes sociais
+1026;Renata Teixeira;cliente01026@example.com;2023-12-06;Curitiba;PR;Sul;MEI;Orgânico
+1027;João Vieira;cliente01027@example.com;2024-04-03;Belém;PA;Norte;Pessoa Física;Orgânico
+1028;Tatiana Santos;cliente01028@example.com;2022-09-06;Recife;PE;Nordeste;Pessoa Física;Redes sociais
+1029;Ana Ribeiro;cliente01029@example.com;2022-07-21;Goiânia;GO;Centro-Oeste;Pessoa Física;Orgânico
+1030;Sérgio Gomes;cliente01030@example.com;2024-01-08;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+1031;Paulo Gomes;cliente01031@example.com;2023-04-13;São Paulo;SP;Sudeste;Pessoa Física;Pago
+1032;Beatriz Gomes;cliente01032@example.com;2023-05-09;Santos;SP;Sudeste;Pessoa Física;Indicação
+1033;Eduarda Silva;cliente01033@example.com;2024-02-14;Vitória;ES;Sudeste;Pessoa Física;Redes sociais
+1034;Tatiana Nascimento;;2022-12-17;Brasília;DF;Centro-Oeste;Pessoa Física;Orgânico
+1035;Karina Souza;cliente01035@example.com;2023-07-18;Goiânia;GO;Centro-Oeste;Pessoa Física;Pago
+1036;Beatriz Souza;cliente01036@example.com;2023-11-30;Vitória;ES;Sudeste;Pessoa Física;Indicação
+1037;Ana Vieira;cliente01037@example.com;2023-04-12;Brasília;DF;Centro-Oeste;Pessoa Física;Pago
+1038;Tatiana Vieira;cliente01038@example.com;2024-02-16;Uberlândia;MG;Sudeste;Pessoa Física;Orgânico
+1039;Diego Martins;cliente01039@example.com;2023-03-14;Santos;SP;Sudeste;Pessoa Física;Pago
+1040;Diego Vieira;cliente01040@example.com;2023-11-28;Salvador;BA;Nordeste;Pessoa Física;Redes sociais
+1041;Diego Dias;cliente01041@example.com;2024-01-12;Goiânia;GO;Centro-Oeste;Pessoa Física;Orgânico
+1042;Mariana Barbosa;cliente01042@example.com;2023-06-24;Natal;RN;Nordeste;Pessoa Física;Redes sociais
+1043;Eduarda Almeida;cliente01043@example.com;2022-11-11;Brasília;DF;Centro-Oeste;Pessoa Física;Pago
+1044;Lucas Dias;cliente01044@example.com;2023-01-22;Brasília;DF;Centro-Oeste;Pessoa Física;Orgânico
+1045;Caio Rocha;cliente01045@example.com;2022-12-15;Niterói;RJ;Sudeste;Pessoa Física;Orgânico
+1046;Isabela Martins;cliente01046@example.com;2023-11-18;Belém;PA;Norte;Pessoa Física;Indicação
+1047;João Dias;cliente01047@example.com;2022-10-19;Manaus;AM;Norte;Pessoa Física;Pago
+1048;Caio Souza;cliente01048@example.com;2023-03-28;Campo Grande;MS;Centro-Oeste;Pessoa Física;Orgânico
+1049;Mariana Almeida;cliente01049@example.com;2023-10-07;Brasília;DF;Centro-Oeste;Pessoa Física;Pago
+1050;Juliana Pereira;cliente01050@example.com;2024-02-20;Vitória;ES;Sudeste;Pessoa Física;Orgânico
+1051;Lucas Vieira;cliente01051@example.com;2022-08-23;Londrina;PR;Sul;Pessoa Física;Pago
+1052;Karina Pereira;cliente01052@example.com;2023-12-22;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+1053;João Oliveira;cliente01053@example.com;2023-04-24;Belo Horizonte;MG;Sudeste;Pessoa Física;Orgânico
+1054;João Ribeiro;cliente01054@example.com;2023-09-28;Curitiba;PR;Sul;Pessoa Física;Orgânico
+1055;Henrique Martins;cliente01055@example.com;2022-09-20;Caxias Do Sul;RS;Sul;Pessoa Física;Indicação
+1056;Sérgio Nascimento;cliente01056@example.com;2023-06-09;Goiânia;GO;Centro-Oeste;Pessoa Física;Pago
+1057;Mariana Silva;cliente01057@example.com;2023-12-24;Belo Horizonte;MG;Sudeste;Pessoa Física;Pago
+1058;Felipe Silva;cliente01058@example.com;2023-06-23;Joinville;SC;Sul;Pessoa Física;Redes sociais
+1059;Karina Teixeira;cliente01059@example.com;2022-12-27;Campinas;SP;Sudeste;Pessoa Física;Pago
+1060;Lucas Silva;cliente01060@example.com;2023-09-03;Brasília;DF;Centro-Oeste;Pessoa Física;Indicação
+1061;Gabriela Rocha;cliente01061@example.com;2022-09-25;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+1062;Paulo Dias;cliente01062@example.com;2022-11-09;Natal;RN;Nordeste;Pessoa Física;Indicação
+1063;Carla Souza;cliente01063@example.com;2023-12-23;Porto Alegre;RS;Sul;Pessoa Física;Indicação
+1064;Paulo Barbosa;cliente01064@example.com;2024-02-10;Fortaleza;CE;Nordeste;MEI;Pago
+1065;Nicolas Barbosa;cliente01065@example.com;2023-12-31;São Paulo;SP;Sudeste;Pessoa Física;Pago
+1066;Gabriela Teixeira;cliente01066@example.com;2023-05-25;Florianópolis;SC;Sul;MEI;Indicação
+1067;Bruno Barbosa;cliente01067@example.com;2023-06-08;Belo Horizonte;MG;Sudeste;Pessoa Física;Redes sociais
+1068;Lucas Oliveira;cliente01068@example.com;2023-12-09;Brasília;DF;Centro-Oeste;Pessoa Física;Pago
+1069;Renata Ribeiro;cliente01069@example.com;2023-12-10;Florianópolis;SC;Sul;Pessoa Física;Redes sociais
+1070;Yasmin Martins;cliente01070@example.com;2023-06-20;Belo Horizonte;MG;Sudeste;Pessoa Física;Orgânico
+1071;Diego Dias;cliente01071@example.com;2023-11-08;São Paulo;SP;Sudeste;Pessoa Física;Pago
+1072;Caio Santos;cliente01072@example.com;2023-04-02;São Paulo;SP;Sudeste;Pessoa Física;Pago
+1073;Eduarda Almeida;cliente01073@example.com;2023-09-05;Uberlândia;MG;Sudeste;Pessoa Física;Indicação
+1074;Juliana Almeida;cliente01074@example.com;2022-10-23;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Orgânico
+1075;Lucas Cardoso;cliente01075@example.com;2024-02-11;Brasília;DF;Centro-Oeste;Pessoa Física;Indicação
+1076;Eduarda Oliveira;cliente01076@example.com;2023-04-26;Fortaleza;CE;Nordeste;Pessoa Física;Redes sociais
+1077;João Teixeira;cliente01077@example.com;2023-05-15;São Paulo;SP;Sudeste;Pessoa Física;Pago
+1078;Eduarda Ribeiro;cliente01078@example.com;2022-06-29;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+1079;Henrique Almeida;cliente01079@example.com;2024-01-24;Londrina;PR;Sul;Pessoa Física;Redes sociais
+1080;Vinicius Souza;cliente01080@example.com;2023-01-18;Belém;PA;Norte;Pessoa Física;Orgânico
+1081;Eduarda Rocha;;2022-12-10;Campo Grande;MS;Centro-Oeste;Pessoa Física;Redes sociais
+1082;Juliana Pereira;cliente01082@example.com;2023-06-12;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+1083;Isabela Gomes;cliente01083@example.com;2023-04-12;Belo Horizonte;MG;Sudeste;Pessoa Física;Redes sociais
+1084;Lucas Lima;cliente01084@example.com;2023-09-07;Campinas;SP;Sudeste;MEI;Redes sociais
+1085;Isabela Almeida;cliente01085@example.com;2023-11-04;Recife;PE;Nordeste;Pessoa Física;Orgânico
+1086;Beatriz Oliveira;cliente01086@example.com;2023-08-10;Brasília;DF;Centro-Oeste;Pessoa Física;Redes sociais
+1087;Tatiana Silva;cliente01087@example.com;2022-12-06;Fortaleza;CE;Nordeste;Pessoa Física;Orgânico
+1088;Nicolas Ribeiro;cliente01088@example.com;2022-08-04;Fortaleza;CE;Nordeste;Pessoa Física;Orgânico
+1089;Juliana Oliveira;cliente01089@example.com;2023-12-20;Brasília;DF;Centro-Oeste;Pessoa Física;Redes sociais
+1090;Sérgio Rocha;cliente01090@example.com;2023-03-05;Florianópolis;SC;Sul;Pessoa Física;Redes sociais
+1091;Nicolas Vieira;cliente01091@example.com;2023-06-25;Belo Horizonte;MG;Sudeste;Pessoa Física;Orgânico
+1092;Felipe Souza;cliente01092@example.com;2022-12-02;Londrina;PR;Sul;Pessoa Física;Pago
+1093;Sérgio Gomes;cliente01093@example.com;2022-10-08;Brasília;DF;Centro-Oeste;Pessoa Física;Indicação
+1094;Beatriz Barbosa;cliente01094@example.com;2023-10-30;Niterói;RJ;Sudeste;Pessoa Física;Redes sociais
+1095;Ana Ribeiro;cliente01095@example.com;2022-12-02;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+1096;Sérgio Lima;cliente01096@example.com;2023-03-08;Recife;PE;Nordeste;Pessoa Física;Redes sociais
+1097;Sérgio Fernandes;cliente01097@example.com;2023-02-17;São Paulo;SP;Sudeste;MEI;Redes sociais
+1098;Bruno Pereira;cliente01098@example.com;2022-10-30;Florianópolis;SC;Sul;Pessoa Física;Redes sociais
+1099;Eduarda Souza;cliente01099@example.com;2023-03-10;Natal;RN;Nordeste;Pessoa Física;Redes sociais
+1100;Bruno Santos;cliente01100@example.com;2022-12-18;Salvador;BA;Nordeste;Pessoa Física;Redes sociais
+1101;João Barbosa;cliente01101@example.com;2023-12-16;Natal;RN;Nordeste;Pessoa Física;Redes sociais
+1102;Felipe Almeida;cliente01102@example.com;2023-05-11;Campinas;SP;Sudeste;Pessoa Física;Redes sociais
+1103;Beatriz Ribeiro;cliente01103@example.com;2023-10-14;Florianópolis;SC;Sul;Pessoa Física;Indicação
+1104;Olivia Santos;cliente01104@example.com;2023-05-22;Belo Horizonte;MG;Sudeste;Pessoa Física;Pago
+1105;Gabriela Dias;cliente01105@example.com;2023-06-10;Manaus;AM;Norte;Pessoa Física;Indicação
+1106;Bruno Vieira;cliente01106@example.com;2022-10-28;Joinville;SC;Sul;Pessoa Física;Orgânico
+1107;Juliana Teixeira;cliente01107@example.com;2023-09-20;Belém;PA;Norte;Pessoa Física;Orgânico
+1108;Yasmin Cardoso;cliente01108@example.com;2023-01-22;Campinas;SP;Sudeste;Pessoa Física;Redes sociais
+1109;Henrique Ribeiro;cliente01109@example.com;2023-03-21;Campinas;SP;Sudeste;Pessoa Física;Pago
+1110;Eduarda Souza;cliente01110@example.com;2023-12-24;Salvador;BA;Nordeste;Pessoa Física;Redes sociais
+1111;Henrique Lima;cliente01111@example.com;2023-04-07;São Paulo;SP;Sudeste;MEI;Indicação
+1112;Karina Cardoso;cliente01112@example.com;2023-06-17;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+1113;Bruno Cardoso;cliente01113@example.com;2023-07-21;Campinas;SP;Sudeste;Pessoa Física;Pago
+1114;Diego Cardoso;cliente01114@example.com;2023-09-17;Porto Alegre;RS;Sul;Pessoa Física;Pago
+1115;Tatiana Ribeiro;cliente01115@example.com;2023-08-01;Belo Horizonte;MG;Sudeste;Pessoa Física;Pago
+1116;Gabriela Martins;cliente01116@example.com;2023-08-22;Rio De Janeiro;RJ;Sudeste;MEI;Indicação
+1117;Felipe Dias;cliente01117@example.com;2024-01-12;Natal;RN;Nordeste;Pessoa Física;Indicação
+1118;Beatriz Gomes;cliente01118@example.com;2023-09-27;Recife;PE;Nordeste;Pessoa Física;Pago
+1119;Olivia Almeida;cliente01119@example.com;2023-05-17;Belo Horizonte;MG;Sudeste;Pessoa Física;Redes sociais
+1120;Diego Lima;cliente01120@example.com;2023-12-19;Londrina;PR;Sul;MEI;Redes sociais
+1121;Mariana Nascimento;cliente01121@example.com;2023-01-17;Curitiba;PR;Sul;Pessoa Física;Pago
+1122;Beatriz Fernandes;cliente01122@example.com;2022-12-05;Santos;SP;Sudeste;MEI;Indicação
+1123;Vinicius Dias;cliente01123@example.com;2023-04-05;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+1124;Sérgio Barbosa;cliente01124@example.com;2022-11-07;Santos;SP;Sudeste;Pessoa Física;Indicação
+1125;Ana Cardoso;cliente01125@example.com;2023-02-14;Florianópolis;SC;Sul;Pessoa Física;Indicação
+1126;Isabela Pereira;cliente01126@example.com;2023-10-14;Cuiabá;MT;Centro-Oeste;Pessoa Física;Pago
+1127;Bruno Silva;cliente01127@example.com;2023-02-13;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+1128;Lucas Martins;;2022-09-15;Brasília;DF;Centro-Oeste;Pessoa Física;Pago
+1129;Renata Souza;cliente01129@example.com;2023-10-11;Uberlândia;MG;Sudeste;Pessoa Física;Indicação
+1130;Paulo Martins;cliente01130@example.com;2023-12-18;Campo Grande;MS;Centro-Oeste;Pessoa Física;Pago
+1131;Tatiana Gomes;cliente01131@example.com;2022-10-30;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Redes sociais
+1132;Henrique Dias;cliente01132@example.com;2023-12-30;Belo Horizonte;MG;Sudeste;Pessoa Física;Orgânico
+1133;Sérgio Teixeira;cliente01133@example.com;2023-12-29;Vitória;ES;Sudeste;Pessoa Física;Indicação
+1134;Gabriela Vieira;cliente01134@example.com;2022-11-17;Campinas;SP;Sudeste;Pessoa Física;Pago
+1135;Olivia Nascimento;cliente01135@example.com;2023-12-27;Niterói;RJ;Sudeste;Pessoa Física;Orgânico
+1136;Ana Fernandes;cliente01136@example.com;2023-11-30;Porto Alegre;RS;Sul;Pessoa Física;Indicação
+1137;Ana Santos;cliente01137@example.com;2023-02-12;Salvador;BA;Nordeste;Pessoa Física;Pago
+1138;Diego Silva;cliente01138@example.com;2024-01-06;Natal;RN;Nordeste;Pessoa Física;Orgânico
+1139;Isabela Nascimento;cliente01139@example.com;2023-04-22;São Paulo;SP;Sudeste;Pessoa Física;Pago
+1140;Bruno Rocha;cliente01140@example.com;2022-10-08;Vitória;ES;Sudeste;Pessoa Física;Redes sociais
+1141;Karina Ribeiro;cliente01141@example.com;2022-12-15;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+1142;Isabela Teixeira;cliente01142@example.com;2023-01-28;Niterói;RJ;Sudeste;Pessoa Física;Redes sociais
+1143;Diego Rocha;cliente01143@example.com;2023-08-12;Rio De Janeiro;RJ;Sudeste;MEI;Redes sociais
+1144;Yasmin Barbosa;cliente01144@example.com;2023-11-27;Belo Horizonte;MG;Sudeste;MEI;Orgânico
+1145;Vinicius Lima;cliente01145@example.com;2023-06-28;Fortaleza;CE;Nordeste;Pessoa Física;Indicação
+1146;Paulo Silva;cliente01146@example.com;2023-03-28;São Paulo;SP;Sudeste;Pessoa Física;Redes sociais
+1147;Beatriz Barbosa;cliente01147@example.com;2023-11-05;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+1148;Diego Martins;cliente01148@example.com;2023-11-20;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+1149;Bruno Ribeiro;cliente01149@example.com;2022-12-04;Santos;SP;Sudeste;Pessoa Física;Orgânico
+1150;Isabela Silva;cliente01150@example.com;2023-12-10;Uberlândia;MG;Sudeste;Pessoa Física;Pago
+1151;Eduarda Martins;cliente01151@example.com;2022-10-21;Uberlândia;MG;Sudeste;Pessoa Física;Redes sociais
+1152;Carla Rocha;cliente01152@example.com;2023-05-19;Brasília;DF;Centro-Oeste;Pessoa Física;Pago
+1153;Olivia Dias;cliente01153@example.com;2023-03-10;Rio De Janeiro;RJ;Sudeste;MEI;Redes sociais
+1154;Diego Gomes;cliente01154@example.com;2022-08-25;São Paulo;SP;Sudeste;Pessoa Física;Pago
+1155;Karina Santos;cliente01155@example.com;2023-02-11;Caxias Do Sul;RS;Sul;Pessoa Física;Indicação
+1156;Felipe Ribeiro;cliente01156@example.com;2023-03-02;Uberlândia;MG;Sudeste;Pessoa Física;Orgânico
+1157;Juliana Oliveira;cliente01157@example.com;2022-07-14;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+1158;Caio Almeida;cliente01158@example.com;2023-07-14;Campinas;SP;Sudeste;Pessoa Física;Orgânico
+1159;Lucas Silva;cliente01159@example.com;2023-03-20;São Paulo;SP;Sudeste;Pessoa Física;Indicação
+1160;Nicolas Souza;cliente01160@example.com;2023-06-04;Vitória;ES;Sudeste;Pessoa Física;Pago
+1161;Felipe Martins;cliente01161@example.com;2024-03-30;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Redes sociais
+1162;Yasmin Vieira;cliente01162@example.com;2023-04-01;Joinville;SC;Sul;Pessoa Física;Indicação
+1163;Eduarda Silva;cliente01163@example.com;2023-06-16;Goiânia;GO;Centro-Oeste;Pessoa Física;Redes sociais
+1164;Felipe Vieira;cliente01164@example.com;2023-10-03;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Redes sociais
+1165;Paulo Nascimento;cliente01165@example.com;2023-01-21;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Redes sociais
+1166;Beatriz Oliveira;cliente01166@example.com;2022-12-05;Campinas;SP;Sudeste;Pessoa Física;Indicação
+1167;Yasmin Vieira;cliente01167@example.com;2023-06-18;Campo Grande;MS;Centro-Oeste;Pessoa Física;Redes sociais
+1168;Vinicius Dias;cliente01168@example.com;2023-12-26;Natal;RN;Nordeste;Pessoa Física;Redes sociais
+1169;Felipe Barbosa;cliente01169@example.com;2023-03-29;Recife;PE;Nordeste;MEI;Redes sociais
+1170;Henrique Santos;cliente01170@example.com;2023-12-19;Belo Horizonte;MG;Sudeste;Pessoa Física;Indicação
+1171;Isabela Nascimento;cliente01171@example.com;2023-05-01;Joinville;SC;Sul;Pessoa Física;Indicação
+1172;Eduarda Silva;cliente01172@example.com;2023-01-31;Belo Horizonte;MG;Sudeste;Pessoa Física;Pago
+1173;Felipe Vieira;cliente01173@example.com;2023-03-16;Brasília;DF;Centro-Oeste;Pessoa Física;Indicação
+1174;Sérgio Teixeira;cliente01174@example.com;2023-02-10;Curitiba;PR;Sul;Pessoa Física;Orgânico
+1175;Carla Almeida;;2022-12-08;Curitiba;PR;Sul;Pessoa Física;Pago
+1176;Yasmin Vieira;cliente01176@example.com;2023-09-21;Londrina;PR;Sul;Pessoa Física;Redes sociais
+1177;Olivia Pereira;cliente01177@example.com;2022-09-05;Niterói;RJ;Sudeste;Pessoa Física;Indicação
+1178;Yasmin Cardoso;cliente01178@example.com;2022-10-21;Belém;PA;Norte;Pessoa Física;Redes sociais
+1179;Henrique Fernandes;cliente01179@example.com;2023-01-09;São Paulo;SP;Sudeste;Pessoa Física;Orgânico
+1180;Beatriz Martins;cliente01180@example.com;2023-12-10;Uberlândia;MG;Sudeste;Pessoa Física;Redes sociais
+1181;Sérgio Dias;cliente01181@example.com;2023-01-10;Joinville;SC;Sul;Pessoa Física;Redes sociais
+1182;Felipe Barbosa;cliente01182@example.com;2022-11-17;Porto Alegre;RS;Sul;Pessoa Física;Indicação
+1183;Mariana Silva;cliente01183@example.com;2023-09-01;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Pago
+1184;Bruno Nascimento;cliente01184@example.com;2022-09-22;Brasília;DF;Centro-Oeste;Pessoa Física;Pago
+1185;Gabriela Fernandes;cliente01185@example.com;2023-08-08;São Paulo;SP;Sudeste;MEI;Indicação
+1186;Sérgio Lima;cliente01186@example.com;2023-05-12;Brasília;DF;Centro-Oeste;Pessoa Física;Indicação
+1187;Olivia Souza;cliente01187@example.com;2023-11-08;Rio De Janeiro;RJ;Sudeste;Pessoa Física;Indicação
+1188;Mariana Teixeira;cliente01188@example.com;2023-02-02;Belo Horizonte;MG;Sudeste;Pessoa Física;Redes sociais
+1189;Caio Barbosa;cliente01189@example.com;2023-12-01;Campinas;SP;Sudeste;Pessoa Física;Pago
+1190;Gabriela Souza;cliente01190@example.com;2023-10-23;Brasília;DF;Centro-Oeste;Pessoa Física;Orgânico
+1191;Paulo Silva;cliente01191@example.com;2023-11-16;Campinas;SP;Sudeste;Pessoa Física;Indicação
+1192;Yasmin Lima;cliente01192@example.com;2023-04-24;Goiânia;GO;Centro-Oeste;MEI;Pago
+1193;Juliana Dias;cliente01193@example.com;2023-08-18;Salvador;BA;Nordeste;Pessoa Física;Indicação
+1194;Gabriela Pereira;cliente01194@example.com;2023-06-08;Florianópolis;SC;Sul;MEI;Indicação
+1195;Karina Gomes;cliente01195@example.com;2022-09-18;Belo Horizonte;MG;Sudeste;Pessoa Física;Indicação
+1196;Bruno Teixeira;cliente01196@example.com;2023-07-14;Porto Alegre;RS;Sul;MEI;Orgânico
+1197;Caio Vieira;cliente01197@example.com;2023-01-23;Cuiabá;MT;Centro-Oeste;Pessoa Física;Pago
+1198;Vinicius Nascimento;cliente01198@example.com;2023-01-21;São Paulo;SP;Sudeste;Pessoa Física;Pago
+1199;Yasmin Gomes;cliente01199@example.com;2023-09-19;Goiânia;GO;Centro-Oeste;Pessoa Física;Indicação
+1200;Juliana Pereira;cliente01200@example.com;2023-11-23;Recife;PE;Nordeste;Pessoa Física;Pago
