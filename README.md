@@ -23,7 +23,7 @@ Python · exportação de dados do SQLite
 HTML + CSS + JavaScript · dashboard único (index.html)
 ```
 
-O SQLite substitui o SQL Server da versão inicial do projeto. Para preservar a separação lógica dos dados, os nomes das tabelas usam prefixos `raw_` e `analytics_`. O HTML contém uma exportação dos dados necessários e **não exige conexão ativa com o SQLite** para ser visualizado.
+Para preservar a separação lógica dos dados, os nomes das tabelas usam prefixos `raw_` e `analytics_`. O HTML contém uma exportação dos dados necessários e **não exige conexão ativa com o SQLite** para ser visualizado.
 
 ## Estrutura do repositório
 
@@ -44,7 +44,7 @@ PROJ_IMPACTA_ORBIT_STORE_BI/
 ├── dashboard/
 │   ├── modelo_dashboard.html    # Front-end em HTML/CSS/JS
 │   └── preview_dashboard.png
-├── index.html                  # Dashboard pronto para abrir/publicar
+├── index.html                  # Dashboard pronto
 └── README.md
 ```
 
@@ -72,30 +72,6 @@ PROJ_IMPACTA_ORBIT_STORE_BI/
 O painel apresenta **evolução mensal da receita, faturamento por categoria, produtos mais vendidos, situação dos pedidos e clientes recorrentes**.
 
 **Regras de análise:** receita de produtos/categorias não inclui frete; receita líquida consolidada inclui receita de frete. Margem de contribuição é uma métrica gerencial estimada (receita menos CMV e frete logístico), não lucro contábil. As análises cobrem janeiro de 2024 a **25 de outubro de 2026**, portanto o último mês está incompleto.
-
-## Como executar
-
-**Para visualizar o projeto:** abra `index.html` no navegador. Não é necessário instalar SQL Server, Power BI, Python ou dependências.
-
-**Para reproduzir o processamento**, utilize Python 3.9+ e execute os comandos na raiz do repositório:
-
-```bash
-python -m pip install -r backend/requirements.txt
-python backend/processar_metricas.py
-python backend/criar_banco_sqlite.py
-python backend/gerar_dashboard.py
-python backend/validar_projeto.py
-```
-
-Os comandos recriam os dados tratados, o banco SQLite, o HTML e as validações. A dependência externa (`pandas`, `numpy`) é necessária somente para o ETL; os demais scripts utilizam a biblioteca padrão do Python.
-
-## Validação
-
-- Pedidos originais e analíticos: **9.000**; itens de pedido: **16.908**.
-- Soma de receita da tabela `analytics_FatoPedidos` = `analytics_IndicadoresMensais`: **R$ 6.273.952,55**.
-- Soma de margem nas mesmas tabelas: **R$ 2.200.130,29**.
-- Total de meses analíticos: **34**.
-- Integridade dos produtos referenciados pelos itens validada no script `backend/validar_projeto.py`.
 
 ## Tecnologias
 
