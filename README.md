@@ -1,6 +1,6 @@
 # Orbit Store BI — Projeto Acadêmico
 
-**Business Intelligence de um e-commerce fictício de tecnologia e acessórios**, desenvolvido com três camadas: armazenamento de dados, processamento em Python e dashboard web. Projeto com **uma única visão executiva**, inspirado na organização do projeto acadêmico Nala Beauty, mas com dados e domínio distintos.
+**Business Intelligence de um e-commerce fictício de tecnologia e acessórios**, desenvolvido com três camadas: armazenamento de dados, processamento em Python e dashboard web.
 
 ![Prévia do dashboard Orbit Store BI](dashboard/preview_dashboard.png)
 
