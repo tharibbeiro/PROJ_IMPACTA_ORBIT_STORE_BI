@@ -2,9 +2,10 @@
 
 **Business Intelligence de um e-commerce fictício de tecnologia e acessórios**, desenvolvido com três camadas: armazenamento de dados, processamento em Python e dashboard web.
 
+
 ![Prévia do dashboard Orbit Store BI](dashboard/preview_dashboard.png)
 
-> **Dashboard interativo:** abra `index.html` no navegador ou, depois de ativar o GitHub Pages, acesse o endereço publicado do repositório. Os filtros funcionam localmente, sem servidor nem Power BI.
+> **Dashboard interativo:** https://tharibbeiro.github.io/PROJ_IMPACTA_ORBIT_STORE_BI/. 
 
 ## Arquitetura
 
